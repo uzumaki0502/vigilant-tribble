@@ -741,6 +741,12 @@
     },
     "done": true
   },
+  "mores:mores/obtain_silver_ore": {
+    "criteria": {
+      "obtain_copper_ore": "2025-01-22 19:24:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 21:35:38 +0000"

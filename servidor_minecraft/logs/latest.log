@@ -882,3 +882,13 @@
 [19:17:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Uzumaki0502[/127.58.111.88:47057] logged in with entity id 16797 at (-217.06400165122662, 19.0, 39.30000001192093)
 [19:17:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 joined the game
 [19:18:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Opped onlygaby]
+[19:22:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: onlygaby lost connection: Disconnected
+[19:22:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby left the game
+[19:22:55] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[19:22:55] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 17 mods : minecraft@1.12.2,torchmaster@1.8.4.84,dungeonsmod@@VERSION@,FML@8.0.99.99,tombstone@4.7.4,mca@6.1.0,mores@2.0,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,jei@4.16.1.1013,forge@14.23.5.2860,extrautils2@1.0,jeiintegration@1.6.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,travelersbackpack@1.0.35
+[19:22:55] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
+[19:22:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:22:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: onlygaby[/127.135.234.72:41263] logged in with entity id 21946 at (-176.65953465398331, 20.0, 0.028322914701754853)
+[19:22:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby joined the game
+[19:24:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 has made the advancement [Is This Diamond?]
+[19:24:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby has made the advancement [Acquire Hardware]

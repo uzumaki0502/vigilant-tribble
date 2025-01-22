@@ -894,3 +894,13 @@
 [19:24:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby has made the advancement [Acquire Hardware]
 [19:35:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 has made the advancement [Cheap Iron]
 [19:39:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: onlygaby moved too quickly! 6.296866469250887,-2.3170296204492757,-7.7045874792697155
+[19:51:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 lost connection: Timed out
+[19:51:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 left the game
+[19:56:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: onlygaby moved too quickly! 9.863158926109918,-2.0,-0.3081225809593491
+[19:58:14] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[19:58:14] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 17 mods : minecraft@1.12.2,torchmaster@1.8.4.84,dungeonsmod@@VERSION@,FML@8.0.99.99,tombstone@4.7.4,mca@6.1.0,mores@2.0,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,jei@4.16.1.1013,forge@14.23.5.2860,extrautils2@1.0,jeiintegration@1.6.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,travelersbackpack@1.0.35
+[19:58:14] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[19:58:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:58:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Uzumaki0502[/127.58.111.88:51409] logged in with entity id 60363 at (-246.40331488561978, 64.0, -54.41176169158194)
+[19:58:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 joined the game
+[19:58:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 has made the advancement [Acquire Hardware]

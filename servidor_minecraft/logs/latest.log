@@ -892,3 +892,5 @@
 [19:22:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby joined the game
 [19:24:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 has made the advancement [Is This Diamond?]
 [19:24:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby has made the advancement [Acquire Hardware]
+[19:35:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 has made the advancement [Cheap Iron]
+[19:39:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: onlygaby moved too quickly! 6.296866469250887,-2.3170296204492757,-7.7045874792697155

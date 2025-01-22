@@ -241,3 +241,14 @@
 [20:57:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 left the game
 [20:57:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: onlygaby lost connection: Disconnected
 [20:57:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby left the game
+[21:01:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[21:01:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[21:01:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[21:01:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[21:01:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[21:01:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[21:01:02] [Server thread/INFO] [FML]: Unloading dimension 0
+[21:01:02] [Server thread/INFO] [FML]: Unloading dimension -9999
+[21:01:02] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[21:01:02] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[21:01:02] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

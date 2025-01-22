@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-01-22 21:31:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 21:35:38 +0000"
@@ -206,6 +212,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2025-01-21 21:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-01-22 21:31:04 +0000"
     },
     "done": true
   },
@@ -316,6 +328,7 @@
     "criteria": {
       "obtain_cobalt_ingot": "2025-01-22 20:01:15 +0000",
       "obtain_tin_ingot": "2025-01-21 21:21:50 +0000",
+      "obtain_graphene_gem": "2025-01-22 21:30:09 +0000",
       "obtain_silver_ingot": "2025-01-22 20:03:10 +0000",
       "obtain_copper_ingot": "2025-01-22 20:03:08 +0000"
     },
@@ -405,6 +418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-01-22 21:31:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-01-21 21:03:11 +0000"
@@ -426,6 +445,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-01-22 20:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-01-22 21:31:04 +0000"
     },
     "done": true
   },
@@ -507,6 +532,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_black_dye": "2025-01-22 22:05:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2025-01-21 21:06:13 +0000"
@@ -573,6 +604,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-01-22 21:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-01-22 21:31:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "stray": "2025-01-21 21:48:10 +0000",
@@ -584,6 +627,12 @@
       "creeper": "2025-01-21 21:43:28 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-01-22 21:31:04 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
@@ -621,9 +670,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-22 21:31:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-21 21:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-01-22 21:31:04 +0000"
     },
     "done": true
   },
@@ -720,6 +781,12 @@
   "mores:mores/obtain_cobalt_ore": {
     "criteria": {
       "obtain_cobalt_ore": "2025-01-22 19:10:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-01-22 21:31:04 +0000"
     },
     "done": true
   },
@@ -834,6 +901,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-22 20:25:18 +0000"
+    },
+    "done": true
+  },
+  "mores:mores/obtain_graphene": {
+    "criteria": {
+      "obtain_graphene_gem": "2025-01-22 21:30:09 +0000"
     },
     "done": true
   },
@@ -999,6 +1072,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-01-22 22:05:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "ice_flats": "2025-01-21 21:44:23 +0000",
@@ -1092,6 +1171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2025-01-22 21:31:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-01-21 21:06:13 +0000"
@@ -1149,6 +1234,18 @@
   "tombstone:tutorial/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-01-21 21:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2025-01-22 21:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-01-22 21:31:04 +0000"
     },
     "done": true
   },

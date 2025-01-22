@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-22 21:22:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-22 19:36:12 +0000"
@@ -391,7 +397,8 @@
   "mores:mores/obtain_all": {
     "criteria": {
       "obtain_cobalt_ingot": "2025-01-22 19:24:34 +0000",
-      "obtain_tin_ingot": "2025-01-21 21:21:00 +0000"
+      "obtain_tin_ingot": "2025-01-21 21:21:00 +0000",
+      "obtain_copper_ingot": "2025-01-22 21:33:09 +0000"
     },
     "done": false
   },
@@ -530,6 +537,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-22 19:42:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2025-01-22 21:19:29 +0000"
     },
     "done": true
   },
@@ -1220,6 +1233,7 @@
       "forest": "2025-01-21 20:58:11 +0000",
       "deep_ocean": "2025-01-21 22:05:35 +0000",
       "beaches": "2025-01-21 22:03:44 +0000",
+      "extreme_hills_with_trees": "2025-01-22 21:21:06 +0000",
       "forest_hills": "2025-01-21 21:10:28 +0000",
       "plains": "2025-01-21 21:36:01 +0000",
       "jungle_hills": "2025-01-21 21:58:25 +0000",
@@ -1387,6 +1401,12 @@
   "cfm:root": {
     "criteria": {
       "tick": "2025-01-22 18:56:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-01-22 21:22:18 +0000"
     },
     "done": true
   },

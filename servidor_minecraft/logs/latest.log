@@ -869,3 +869,16 @@
 [19:09:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Creative Mode]
 [19:09:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 has made the advancement [Isn't It Iron Pick]
 [19:09:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby has made the advancement [Isn't It Iron Pick]
+[19:10:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Survival Mode]
+[19:10:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 has made the advancement [Very Balt Of You]
+[19:12:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby has made the advancement [Very Balt Of You]
+[19:14:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 lost connection: Timed out
+[19:14:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 left the game
+[19:15:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <onlygaby> [name:"nidito de amor", x:-245, y:64, z:-52]
+[19:17:08] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[19:17:08] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 17 mods : minecraft@1.12.2,torchmaster@1.8.4.84,dungeonsmod@@VERSION@,FML@8.0.99.99,tombstone@4.7.4,mca@6.1.0,mores@2.0,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,jei@4.16.1.1013,forge@14.23.5.2860,extrautils2@1.0,jeiintegration@1.6.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,travelersbackpack@1.0.35
+[19:17:08] [Netty Epoll Server IO #5/INFO] [journeymap]: CLIENT
+[19:17:09] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:17:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Uzumaki0502[/127.58.111.88:47057] logged in with entity id 16797 at (-217.06400165122662, 19.0, 39.30000001192093)
+[19:17:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 joined the game
+[19:18:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Opped onlygaby]

@@ -310,3 +310,18 @@
 [23:03:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 got revenge on Kraken
 [23:03:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 has made the advancement [Sea Tamer]
 [23:04:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Survival Mode]
+[23:11:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: onlygaby lost connection: Disconnected
+[23:11:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby left the game
+[23:12:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 lost connection: Disconnected
+[23:12:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 left the game
+[23:13:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[23:13:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:13:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[23:13:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[23:13:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[23:13:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[23:13:08] [Server thread/INFO] [FML]: Unloading dimension 0
+[23:13:08] [Server thread/INFO] [FML]: Unloading dimension -9999
+[23:13:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:13:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[23:13:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

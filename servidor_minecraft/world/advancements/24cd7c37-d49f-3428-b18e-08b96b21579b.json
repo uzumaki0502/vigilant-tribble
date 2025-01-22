@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-22 19:05:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 21:35:23 +0000"
@@ -92,6 +98,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 21:35:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/find_grave_dust": {
+    "criteria": {
+      "has_grave_dust": "2025-01-22 19:05:51 +0000"
     },
     "done": true
   },
@@ -260,6 +272,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-01-21 21:10:13 +0000",
+      "cooked_beef": "2025-01-22 19:05:34 +0000",
       "raw_cod": "2025-01-21 21:06:44 +0000",
       "cooked_chicken": "2025-01-21 21:18:58 +0000",
       "carrot": "2025-01-21 21:39:42 +0000"
@@ -287,6 +300,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-01-21 21:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-22 19:05:13 +0000"
     },
     "done": true
   },
@@ -380,6 +399,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-22 19:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2025-01-22 19:05:13 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/root": {
     "criteria": {
       "auto": "2025-01-21 20:58:11 +0000"
@@ -431,6 +462,12 @@
   "mores:mores/craft_tin_pickaxe": {
     "criteria": {
       "obtain_copper_ore": "2025-01-21 21:29:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-01-22 19:05:51 +0000"
     },
     "done": true
   },
@@ -554,6 +591,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2025-01-21 21:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-22 19:05:16 +0000"
     },
     "done": true
   },

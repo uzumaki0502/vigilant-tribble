@@ -265,6 +265,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-22 19:01:13 +0000",
       "chicken": "2025-01-21 21:10:46 +0000",
       "cooked_beef": "2025-01-21 21:45:20 +0000",
       "apple": "2025-01-21 21:03:04 +0000",
@@ -624,6 +625,12 @@
       "creeper": "2025-01-21 21:43:28 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2025-01-22 19:05:29 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {

@@ -865,3 +865,7 @@
 [18:56:44] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [18:56:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: onlygaby[/127.135.234.72:40651] logged in with entity id 2994 at (-244.39908344840416, 64.0, -52.591840800856446)
 [18:56:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby joined the game
+[19:05:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby has made the advancement [A Strange Grave's Dust]
+[19:09:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Creative Mode]
+[19:09:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 has made the advancement [Isn't It Iron Pick]
+[19:09:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby has made the advancement [Isn't It Iron Pick]

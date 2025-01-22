@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "mores:mores/craft_all_maces": {
+    "criteria": {
+      "obtain_silver_mace": "2025-01-22 20:03:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
     "criteria": {
       "has_lapis": "2025-01-22 19:18:34 +0000"
@@ -414,6 +420,12 @@
     },
     "done": true
   },
+  "mores:mores/craft_all_daggers": {
+    "criteria": {
+      "obtain_cobalt_dagger": "2025-01-22 20:04:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-01-21 21:03:11 +0000"
@@ -518,7 +530,10 @@
   },
   "mores:mores/obtain_all": {
     "criteria": {
-      "obtain_tin_ingot": "2025-01-21 21:21:50 +0000"
+      "obtain_cobalt_ingot": "2025-01-22 20:01:15 +0000",
+      "obtain_tin_ingot": "2025-01-21 21:21:50 +0000",
+      "obtain_silver_ingot": "2025-01-22 20:03:10 +0000",
+      "obtain_copper_ingot": "2025-01-22 20:03:08 +0000"
     },
     "done": false
   },

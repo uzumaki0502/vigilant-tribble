@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "mores:mores/craft_all_maces": {
+    "criteria": {
+      "obtain_silver_mace": "2025-01-22 20:04:04 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-01-22 19:24:30 +0000"
@@ -331,6 +337,12 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-21 22:00:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-01-22 20:08:31 +0000"
     },
     "done": true
   },
@@ -931,6 +943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-22 20:06:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-22 19:42:22 +0000"
@@ -1026,6 +1044,12 @@
       "has_stone": "2025-01-21 21:14:53 +0000"
     },
     "done": true
+  },
+  "mores:mores/craft_all_daggers": {
+    "criteria": {
+      "obtain_cobalt_dagger": "2025-01-22 20:04:43 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {

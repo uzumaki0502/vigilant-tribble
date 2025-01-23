@@ -1,325 +1,325 @@
-[18:22:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[18:22:30] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[18:22:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[18:22:30] [main/DEBUG] [FML]: Injecting tracing printstreams for STDOUT/STDERR.
-[18:22:30] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[18:22:30] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[18:22:30] [main/DEBUG] [FML]: Java classpath at launch is:
-[18:22:30] [main/DEBUG] [FML]:     /workspaces/vigilant-tribble/servidor_minecraft/forge-1.12.2-14.23.5.2860.jar
-[18:22:30] [main/DEBUG] [FML]: Java library path at launch is:
-[18:22:30] [main/DEBUG] [FML]:     /tmp/_MEIV6jyJu
-[18:22:30] [main/DEBUG] [FML]:     /usr/java/packages/lib/amd64
-[18:22:30] [main/DEBUG] [FML]:     /usr/lib/x86_64-linux-gnu/jni
-[18:22:30] [main/DEBUG] [FML]:     /lib/x86_64-linux-gnu
-[18:22:30] [main/DEBUG] [FML]:     /usr/lib/x86_64-linux-gnu
-[18:22:30] [main/DEBUG] [FML]:     /usr/lib/jni
-[18:22:30] [main/DEBUG] [FML]:     /lib
-[18:22:30] [main/DEBUG] [FML]:     /usr/lib
-[18:22:30] [main/DEBUG] [FML]: Determined Minecraft Libraries Root: /workspaces/vigilant-tribble/servidor_minecraft/libraries
-[18:22:30] [main/DEBUG] [FML]: Cleaning up mods folder: ./mods
-[18:22:30] [main/DEBUG] [FML]: Examining file: torchmaster_1.12.2-1.8.4.84.jar
-[18:22:30] [main/DEBUG] [FML]: Examining file: Chisel-MC1.12.2-1.0.2.45.jar
-[18:22:30] [main/DEBUG] [FML]: Examining file: TravelersBackpack-1.12.2-1.0.35.jar
-[18:22:30] [main/DEBUG] [FML]: Examining file: MCA-Español-1.12.2.jar
-[18:22:30] [main/DEBUG] [FML]: Examining file: jei_1.12.2-4.16.1.1013.jar
-[18:22:30] [main/DEBUG] [FML]: Examining file: DungeonsMod-1.12.2-1.0.8.jar
-[18:22:30] [main/DEBUG] [FML]: Examining file: tombstone-1.12.2-4.7.4.jar
-[18:22:30] [main/DEBUG] [FML]: Examining file: artifacts-1.12.2-1.2.4.jar
-[18:22:30] [main/DEBUG] [FML]: Examining file: CTM-MC1.12.2-1.0.2.31.jar
-[18:22:30] [main/DEBUG] [FML]: Examining file: mOres-1.3.0-mc1.12.2.jar
-[18:22:30] [main/DEBUG] [FML]: Examining file: jeiintegration_1.12.2-1.6.0.jar
-[18:22:30] [main/DEBUG] [FML]: Examining file: furniture-6.3.2-1.12.2.jar
-[18:22:30] [main/DEBUG] [FML]: Examining file: FallingTree-1.12.2-2.4.0.jar
-[18:22:30] [main/DEBUG] [FML]: Examining file: journeymap-1.12.2-5.7.1p3.jar
-[18:22:30] [main/DEBUG] [FML]: Examining file: extrautils2-1.12-1.9.9.jar
-[18:22:30] [main/DEBUG] [FML]: Enabling runtime deobfuscation
-[18:22:30] [main/DEBUG] [FML]: Instantiating coremod class FMLCorePlugin
-[18:22:30] [main/DEBUG] [FML]: Found signing certificates for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin)
-[18:22:30] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
-[18:22:30] [main/DEBUG] [FML]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
-[18:22:30] [main/DEBUG] [FML]: Enqueued coremod FMLCorePlugin
-[18:22:30] [main/DEBUG] [FML]: Instantiating coremod class FMLForgePlugin
-[18:22:30] [main/DEBUG] [FML]: Found signing certificates for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin)
-[18:22:30] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
-[18:22:30] [main/DEBUG] [FML]: Enqueued coremod FMLForgePlugin
-[18:22:30] [main/DEBUG] [FML]: All fundamental core mods are successfully located
-[18:22:30] [main/DEBUG] [FML]: Discovering coremods
-[18:22:30] [main/INFO] [FML]: Searching /workspaces/vigilant-tribble/servidor_minecraft/./mods for mods
-[18:22:30] [main/DEBUG] [FML]:   Adding torchmaster_1.12.2-1.8.4.84.jar to the mod list
-[18:22:30] [main/DEBUG] [FML]:   Adding Chisel-MC1.12.2-1.0.2.45.jar to the mod list
-[18:22:30] [main/DEBUG] [FML]:   Adding TravelersBackpack-1.12.2-1.0.35.jar to the mod list
-[18:22:30] [main/DEBUG] [FML]:   Adding MCA-Español-1.12.2.jar to the mod list
-[18:22:30] [main/DEBUG] [FML]:   Adding jei_1.12.2-4.16.1.1013.jar to the mod list
-[18:22:30] [main/DEBUG] [FML]:   Adding DungeonsMod-1.12.2-1.0.8.jar to the mod list
-[18:22:30] [main/DEBUG] [FML]:   Adding tombstone-1.12.2-4.7.4.jar to the mod list
-[18:22:30] [main/DEBUG] [FML]:   Adding artifacts-1.12.2-1.2.4.jar to the mod list
-[18:22:30] [main/DEBUG] [FML]:   Adding CTM-MC1.12.2-1.0.2.31.jar to the mod list
-[18:22:30] [main/DEBUG] [FML]:   Adding mOres-1.3.0-mc1.12.2.jar to the mod list
-[18:22:30] [main/DEBUG] [FML]:   Adding jeiintegration_1.12.2-1.6.0.jar to the mod list
-[18:22:30] [main/DEBUG] [FML]:   Adding furniture-6.3.2-1.12.2.jar to the mod list
-[18:22:30] [main/DEBUG] [FML]:   Adding FallingTree-1.12.2-2.4.0.jar to the mod list
-[18:22:30] [main/DEBUG] [FML]:   Adding journeymap-1.12.2-5.7.1p3.jar to the mod list
-[18:22:30] [main/DEBUG] [FML]:   Adding extrautils2-1.12-1.9.9.jar to the mod list
-[18:22:30] [main/DEBUG] [FML]: Examining for coremod candidacy artifacts-1.12.2-1.2.4.jar
-[18:22:30] [main/DEBUG] [FML]: Not found coremod data in artifacts-1.12.2-1.2.4.jar
-[18:22:30] [main/DEBUG] [FML]: Examining for coremod candidacy Chisel-MC1.12.2-1.0.2.45.jar
-[18:22:30] [main/DEBUG] [FML]: Not found coremod data in Chisel-MC1.12.2-1.0.2.45.jar
-[18:22:30] [main/DEBUG] [FML]: Examining for coremod candidacy CTM-MC1.12.2-1.0.2.31.jar
-[18:22:30] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.2.31.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:22:30] [main/DEBUG] [FML]: Instantiating coremod class CTMCorePlugin
-[18:22:30] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[18:22:30] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
-[18:22:30] [main/DEBUG] [FML]: Enqueued coremod CTMCorePlugin
-[18:22:30] [main/DEBUG] [FML]: Examining for coremod candidacy DungeonsMod-1.12.2-1.0.8.jar
-[18:22:30] [main/DEBUG] [FML]: Not found coremod data in DungeonsMod-1.12.2-1.0.8.jar
-[18:22:30] [main/DEBUG] [FML]: Examining for coremod candidacy extrautils2-1.12-1.9.9.jar
-[18:22:30] [main/DEBUG] [FML]: Not found coremod data in extrautils2-1.12-1.9.9.jar
-[18:22:30] [main/DEBUG] [FML]: Examining for coremod candidacy FallingTree-1.12.2-2.4.0.jar
-[18:22:30] [main/DEBUG] [FML]: Not found coremod data in FallingTree-1.12.2-2.4.0.jar
-[18:22:30] [main/DEBUG] [FML]: Examining for coremod candidacy furniture-6.3.2-1.12.2.jar
-[18:22:30] [main/DEBUG] [FML]: Not found coremod data in furniture-6.3.2-1.12.2.jar
-[18:22:30] [main/DEBUG] [FML]: Examining for coremod candidacy jei_1.12.2-4.16.1.1013.jar
-[18:22:30] [main/DEBUG] [FML]: Not found coremod data in jei_1.12.2-4.16.1.1013.jar
-[18:22:30] [main/DEBUG] [FML]: Examining for coremod candidacy jeiintegration_1.12.2-1.6.0.jar
-[18:22:30] [main/DEBUG] [FML]: Not found coremod data in jeiintegration_1.12.2-1.6.0.jar
-[18:22:30] [main/DEBUG] [FML]: Examining for coremod candidacy journeymap-1.12.2-5.7.1p3.jar
-[18:22:30] [main/DEBUG] [FML]: Not found coremod data in journeymap-1.12.2-5.7.1p3.jar
-[18:22:30] [main/DEBUG] [FML]: Examining for coremod candidacy MCA-Español-1.12.2.jar
-[18:22:30] [main/DEBUG] [FML]: Not found coremod data in MCA-Español-1.12.2.jar
-[18:22:30] [main/DEBUG] [FML]: Examining for coremod candidacy mOres-1.3.0-mc1.12.2.jar
-[18:22:30] [main/DEBUG] [FML]: Not found coremod data in mOres-1.3.0-mc1.12.2.jar
-[18:22:30] [main/DEBUG] [FML]: Examining for coremod candidacy tombstone-1.12.2-4.7.4.jar
-[18:22:30] [main/DEBUG] [FML]: Not found coremod data in tombstone-1.12.2-4.7.4.jar
-[18:22:30] [main/DEBUG] [FML]: Examining for coremod candidacy torchmaster_1.12.2-1.8.4.84.jar
-[18:22:30] [main/DEBUG] [FML]: Not found coremod data in torchmaster_1.12.2-1.8.4.84.jar
-[18:22:30] [main/DEBUG] [FML]: Examining for coremod candidacy TravelersBackpack-1.12.2-1.0.35.jar
-[18:22:30] [main/DEBUG] [FML]: Not found coremod data in TravelersBackpack-1.12.2-1.0.35.jar
-[18:22:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:22:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[18:22:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:22:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:22:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:22:30] [main/DEBUG] [FML]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
-[18:22:30] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
-[18:22:30] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
-[18:22:30] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
-[18:22:30] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
-[18:22:30] [main/DEBUG] [FML]: Injection complete
-[18:22:30] [main/DEBUG] [FML]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
-[18:22:30] [main/DEBUG] [FML]: Running coremod plugin FMLCorePlugin
-[18:22:31] [main/DEBUG] [FML]: Read 1154 binary patches
-[18:22:31] [main/DEBUG] [FML]: Loading deobfuscation resource /deobfuscation_data-1.12.2.lzma with 36076 records
-[18:22:31] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[18:22:31] [main/DEBUG] [FML]: Coremod plugin class FMLCorePlugin run successfully
-[18:22:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:22:31] [main/DEBUG] [FML]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
-[18:22:31] [main/DEBUG] [FML]: Injection complete
-[18:22:31] [main/DEBUG] [FML]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
-[18:22:31] [main/DEBUG] [FML]: Running coremod plugin FMLForgePlugin
-[18:22:31] [main/DEBUG] [FML]: Coremod plugin class FMLForgePlugin run successfully
-[18:22:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[18:22:31] [main/DEBUG] [FML]: Loaded 215 rules from AccessTransformer config file forge_at.cfg
-[18:22:31] [main/DEBUG] [FML]: Loaded 97 rules from AccessTransformer mod jar file ./mods/extrautils2-1.12-1.9.9.jar!META-INF/extrautils2_at.cfg
+[18:23:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:23:04] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:23:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:23:04] [main/DEBUG] [FML]: Injecting tracing printstreams for STDOUT/STDERR.
+[18:23:04] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[18:23:04] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[18:23:04] [main/DEBUG] [FML]: Java classpath at launch is:
+[18:23:04] [main/DEBUG] [FML]:     /workspaces/vigilant-tribble/servidor_minecraft/forge-1.12.2-14.23.5.2860.jar
+[18:23:04] [main/DEBUG] [FML]: Java library path at launch is:
+[18:23:04] [main/DEBUG] [FML]:     /tmp/_MEIV6jyJu
+[18:23:04] [main/DEBUG] [FML]:     /usr/java/packages/lib/amd64
+[18:23:04] [main/DEBUG] [FML]:     /usr/lib/x86_64-linux-gnu/jni
+[18:23:04] [main/DEBUG] [FML]:     /lib/x86_64-linux-gnu
+[18:23:04] [main/DEBUG] [FML]:     /usr/lib/x86_64-linux-gnu
+[18:23:04] [main/DEBUG] [FML]:     /usr/lib/jni
+[18:23:04] [main/DEBUG] [FML]:     /lib
+[18:23:04] [main/DEBUG] [FML]:     /usr/lib
+[18:23:04] [main/DEBUG] [FML]: Determined Minecraft Libraries Root: /workspaces/vigilant-tribble/servidor_minecraft/libraries
+[18:23:04] [main/DEBUG] [FML]: Cleaning up mods folder: ./mods
+[18:23:04] [main/DEBUG] [FML]: Examining file: torchmaster_1.12.2-1.8.4.84.jar
+[18:23:04] [main/DEBUG] [FML]: Examining file: Chisel-MC1.12.2-1.0.2.45.jar
+[18:23:04] [main/DEBUG] [FML]: Examining file: TravelersBackpack-1.12.2-1.0.35.jar
+[18:23:04] [main/DEBUG] [FML]: Examining file: MCA-Español-1.12.2.jar
+[18:23:04] [main/DEBUG] [FML]: Examining file: jei_1.12.2-4.16.1.1013.jar
+[18:23:04] [main/DEBUG] [FML]: Examining file: DungeonsMod-1.12.2-1.0.8.jar
+[18:23:04] [main/DEBUG] [FML]: Examining file: tombstone-1.12.2-4.7.4.jar
+[18:23:04] [main/DEBUG] [FML]: Examining file: artifacts-1.12.2-1.2.4.jar
+[18:23:04] [main/DEBUG] [FML]: Examining file: CTM-MC1.12.2-1.0.2.31.jar
+[18:23:04] [main/DEBUG] [FML]: Examining file: mOres-1.3.0-mc1.12.2.jar
+[18:23:04] [main/DEBUG] [FML]: Examining file: jeiintegration_1.12.2-1.6.0.jar
+[18:23:04] [main/DEBUG] [FML]: Examining file: furniture-6.3.2-1.12.2.jar
+[18:23:04] [main/DEBUG] [FML]: Examining file: FallingTree-1.12.2-2.4.0.jar
+[18:23:04] [main/DEBUG] [FML]: Examining file: journeymap-1.12.2-5.7.1p3.jar
+[18:23:04] [main/DEBUG] [FML]: Examining file: extrautils2-1.12-1.9.9.jar
+[18:23:04] [main/DEBUG] [FML]: Enabling runtime deobfuscation
+[18:23:05] [main/DEBUG] [FML]: Instantiating coremod class FMLCorePlugin
+[18:23:05] [main/DEBUG] [FML]: Found signing certificates for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin)
+[18:23:05] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[18:23:05] [main/DEBUG] [FML]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[18:23:05] [main/DEBUG] [FML]: Enqueued coremod FMLCorePlugin
+[18:23:05] [main/DEBUG] [FML]: Instantiating coremod class FMLForgePlugin
+[18:23:05] [main/DEBUG] [FML]: Found signing certificates for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin)
+[18:23:05] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[18:23:05] [main/DEBUG] [FML]: Enqueued coremod FMLForgePlugin
+[18:23:05] [main/DEBUG] [FML]: All fundamental core mods are successfully located
+[18:23:05] [main/DEBUG] [FML]: Discovering coremods
+[18:23:05] [main/INFO] [FML]: Searching /workspaces/vigilant-tribble/servidor_minecraft/./mods for mods
+[18:23:05] [main/DEBUG] [FML]:   Adding torchmaster_1.12.2-1.8.4.84.jar to the mod list
+[18:23:05] [main/DEBUG] [FML]:   Adding Chisel-MC1.12.2-1.0.2.45.jar to the mod list
+[18:23:05] [main/DEBUG] [FML]:   Adding TravelersBackpack-1.12.2-1.0.35.jar to the mod list
+[18:23:05] [main/DEBUG] [FML]:   Adding MCA-Español-1.12.2.jar to the mod list
+[18:23:05] [main/DEBUG] [FML]:   Adding jei_1.12.2-4.16.1.1013.jar to the mod list
+[18:23:05] [main/DEBUG] [FML]:   Adding DungeonsMod-1.12.2-1.0.8.jar to the mod list
+[18:23:05] [main/DEBUG] [FML]:   Adding tombstone-1.12.2-4.7.4.jar to the mod list
+[18:23:05] [main/DEBUG] [FML]:   Adding artifacts-1.12.2-1.2.4.jar to the mod list
+[18:23:05] [main/DEBUG] [FML]:   Adding CTM-MC1.12.2-1.0.2.31.jar to the mod list
+[18:23:05] [main/DEBUG] [FML]:   Adding mOres-1.3.0-mc1.12.2.jar to the mod list
+[18:23:05] [main/DEBUG] [FML]:   Adding jeiintegration_1.12.2-1.6.0.jar to the mod list
+[18:23:05] [main/DEBUG] [FML]:   Adding furniture-6.3.2-1.12.2.jar to the mod list
+[18:23:05] [main/DEBUG] [FML]:   Adding FallingTree-1.12.2-2.4.0.jar to the mod list
+[18:23:05] [main/DEBUG] [FML]:   Adding journeymap-1.12.2-5.7.1p3.jar to the mod list
+[18:23:05] [main/DEBUG] [FML]:   Adding extrautils2-1.12-1.9.9.jar to the mod list
+[18:23:05] [main/DEBUG] [FML]: Examining for coremod candidacy artifacts-1.12.2-1.2.4.jar
+[18:23:05] [main/DEBUG] [FML]: Not found coremod data in artifacts-1.12.2-1.2.4.jar
+[18:23:05] [main/DEBUG] [FML]: Examining for coremod candidacy Chisel-MC1.12.2-1.0.2.45.jar
+[18:23:05] [main/DEBUG] [FML]: Not found coremod data in Chisel-MC1.12.2-1.0.2.45.jar
+[18:23:05] [main/DEBUG] [FML]: Examining for coremod candidacy CTM-MC1.12.2-1.0.2.31.jar
+[18:23:05] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.2.31.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18:23:05] [main/DEBUG] [FML]: Instantiating coremod class CTMCorePlugin
+[18:23:05] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:23:05] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[18:23:05] [main/DEBUG] [FML]: Enqueued coremod CTMCorePlugin
+[18:23:05] [main/DEBUG] [FML]: Examining for coremod candidacy DungeonsMod-1.12.2-1.0.8.jar
+[18:23:05] [main/DEBUG] [FML]: Not found coremod data in DungeonsMod-1.12.2-1.0.8.jar
+[18:23:05] [main/DEBUG] [FML]: Examining for coremod candidacy extrautils2-1.12-1.9.9.jar
+[18:23:05] [main/DEBUG] [FML]: Not found coremod data in extrautils2-1.12-1.9.9.jar
+[18:23:05] [main/DEBUG] [FML]: Examining for coremod candidacy FallingTree-1.12.2-2.4.0.jar
+[18:23:05] [main/DEBUG] [FML]: Not found coremod data in FallingTree-1.12.2-2.4.0.jar
+[18:23:05] [main/DEBUG] [FML]: Examining for coremod candidacy furniture-6.3.2-1.12.2.jar
+[18:23:05] [main/DEBUG] [FML]: Not found coremod data in furniture-6.3.2-1.12.2.jar
+[18:23:05] [main/DEBUG] [FML]: Examining for coremod candidacy jei_1.12.2-4.16.1.1013.jar
+[18:23:05] [main/DEBUG] [FML]: Not found coremod data in jei_1.12.2-4.16.1.1013.jar
+[18:23:05] [main/DEBUG] [FML]: Examining for coremod candidacy jeiintegration_1.12.2-1.6.0.jar
+[18:23:05] [main/DEBUG] [FML]: Not found coremod data in jeiintegration_1.12.2-1.6.0.jar
+[18:23:05] [main/DEBUG] [FML]: Examining for coremod candidacy journeymap-1.12.2-5.7.1p3.jar
+[18:23:05] [main/DEBUG] [FML]: Not found coremod data in journeymap-1.12.2-5.7.1p3.jar
+[18:23:05] [main/DEBUG] [FML]: Examining for coremod candidacy MCA-Español-1.12.2.jar
+[18:23:05] [main/DEBUG] [FML]: Not found coremod data in MCA-Español-1.12.2.jar
+[18:23:05] [main/DEBUG] [FML]: Examining for coremod candidacy mOres-1.3.0-mc1.12.2.jar
+[18:23:05] [main/DEBUG] [FML]: Not found coremod data in mOres-1.3.0-mc1.12.2.jar
+[18:23:05] [main/DEBUG] [FML]: Examining for coremod candidacy tombstone-1.12.2-4.7.4.jar
+[18:23:05] [main/DEBUG] [FML]: Not found coremod data in tombstone-1.12.2-4.7.4.jar
+[18:23:05] [main/DEBUG] [FML]: Examining for coremod candidacy torchmaster_1.12.2-1.8.4.84.jar
+[18:23:05] [main/DEBUG] [FML]: Not found coremod data in torchmaster_1.12.2-1.8.4.84.jar
+[18:23:05] [main/DEBUG] [FML]: Examining for coremod candidacy TravelersBackpack-1.12.2-1.0.35.jar
+[18:23:05] [main/DEBUG] [FML]: Not found coremod data in TravelersBackpack-1.12.2-1.0.35.jar
+[18:23:05] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:23:05] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:23:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:23:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:23:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:23:05] [main/DEBUG] [FML]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[18:23:05] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[18:23:05] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[18:23:05] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[18:23:05] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[18:23:05] [main/DEBUG] [FML]: Injection complete
+[18:23:05] [main/DEBUG] [FML]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[18:23:05] [main/DEBUG] [FML]: Running coremod plugin FMLCorePlugin
+[18:23:05] [main/DEBUG] [FML]: Read 1154 binary patches
+[18:23:05] [main/DEBUG] [FML]: Loading deobfuscation resource /deobfuscation_data-1.12.2.lzma with 36076 records
+[18:23:06] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[18:23:06] [main/DEBUG] [FML]: Coremod plugin class FMLCorePlugin run successfully
+[18:23:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:23:06] [main/DEBUG] [FML]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[18:23:06] [main/DEBUG] [FML]: Injection complete
+[18:23:06] [main/DEBUG] [FML]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[18:23:06] [main/DEBUG] [FML]: Running coremod plugin FMLForgePlugin
+[18:23:06] [main/DEBUG] [FML]: Coremod plugin class FMLForgePlugin run successfully
+[18:23:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:23:06] [main/DEBUG] [FML]: Loaded 215 rules from AccessTransformer config file forge_at.cfg
+[18:23:06] [main/DEBUG] [FML]: Loaded 97 rules from AccessTransformer mod jar file ./mods/extrautils2-1.12-1.9.9.jar!META-INF/extrautils2_at.cfg
 
-[18:22:31] [main/DEBUG] [FML]: Loaded 1 rules from AccessTransformer mod jar file ./mods/journeymap-1.12.2-5.7.1p3.jar!META-INF/journeymap_at.cfg
+[18:23:06] [main/DEBUG] [FML]: Loaded 1 rules from AccessTransformer mod jar file ./mods/journeymap-1.12.2-5.7.1p3.jar!META-INF/journeymap_at.cfg
 
-[18:22:31] [main/DEBUG] [FML]: Loaded 13 rules from AccessTransformer mod jar file ./mods/jei_1.12.2-4.16.1.1013.jar!META-INF/jei_at.cfg
+[18:23:06] [main/DEBUG] [FML]: Loaded 13 rules from AccessTransformer mod jar file ./mods/jei_1.12.2-4.16.1.1013.jar!META-INF/jei_at.cfg
 
-[18:22:31] [main/DEBUG] [FML]: Loaded 20 rules from AccessTransformer mod jar file ./mods/tombstone-1.12.2-4.7.4.jar!META-INF/tombstone_at.cfg
+[18:23:06] [main/DEBUG] [FML]: Loaded 20 rules from AccessTransformer mod jar file ./mods/tombstone-1.12.2-4.7.4.jar!META-INF/tombstone_at.cfg
 
-[18:22:31] [main/DEBUG] [FML]: Loaded 8 rules from AccessTransformer mod jar file ./mods/Chisel-MC1.12.2-1.0.2.45.jar!META-INF/chisel_at.cfg
+[18:23:06] [main/DEBUG] [FML]: Loaded 8 rules from AccessTransformer mod jar file ./mods/Chisel-MC1.12.2-1.0.2.45.jar!META-INF/chisel_at.cfg
 
-[18:22:31] [main/DEBUG] [FML]: Loaded 5 rules from AccessTransformer mod jar file ./mods/CTM-MC1.12.2-1.0.2.31.jar!META-INF/ctm_at.cfg
+[18:23:06] [main/DEBUG] [FML]: Loaded 5 rules from AccessTransformer mod jar file ./mods/CTM-MC1.12.2-1.0.2.31.jar!META-INF/ctm_at.cfg
 
-[18:22:31] [main/DEBUG] [FML]: Validating minecraft
-[18:22:31] [main/DEBUG] [FML]: Minecraft validated, launching...
-[18:22:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:22:31] [main/DEBUG] [FML]: Injecting coremod CTMCorePlugin \{team.chisel.ctm.client.asm.CTMCorePlugin\} class transformers
-[18:22:31] [main/TRACE] [FML]: Registering transformer team.chisel.ctm.client.asm.CTMTransformer
-[18:22:31] [main/DEBUG] [FML]: Injection complete
-[18:22:31] [main/DEBUG] [FML]: Running coremod plugin for CTMCorePlugin \{team.chisel.ctm.client.asm.CTMCorePlugin\}
-[18:22:31] [main/DEBUG] [FML]: Running coremod plugin CTMCorePlugin
-[18:22:31] [main/DEBUG] [FML]: Coremod plugin class CTMCorePlugin run successfully
-[18:22:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[18:22:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[18:22:32] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[18:22:32] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
-[18:22:32] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
-[18:22:34] [main/DEBUG] [FML]: Creating vanilla freeze snapshot
-[18:22:34] [main/DEBUG] [FML]: Vanilla freeze snapshot created
-[18:22:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[18:22:34] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[18:22:34] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[18:22:34] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[18:22:34] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[18:22:34] [Server thread/DEBUG] [FML]: File /workspaces/vigilant-tribble/servidor_minecraft/config/injectedDependencies.json not found. No dependencies injected
-[18:22:34] [Server thread/DEBUG] [FML]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
-[18:22:35] [Server thread/DEBUG] [FML]: Attempting to load mods contained in the minecraft jar file and associated classes
-[18:22:35] [Server thread/DEBUG] [FML]: Found a minecraft related file at /workspaces/vigilant-tribble/servidor_minecraft/forge-1.12.2-14.23.5.2860.jar, examining for mod candidates
-[18:22:35] [Server thread/TRACE] [FML]: Skipping known library file /workspaces/vigilant-tribble/servidor_minecraft/./mods/CTM-MC1.12.2-1.0.2.31.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Minecraft jar mods loaded successfully
-[18:22:35] [Server thread/INFO] [FML]: Searching /workspaces/vigilant-tribble/servidor_minecraft/./mods for mods
-[18:22:35] [Server thread/DEBUG] [FML]:   Adding torchmaster_1.12.2-1.8.4.84.jar to the mod list
-[18:22:35] [Server thread/DEBUG] [FML]:   Adding Chisel-MC1.12.2-1.0.2.45.jar to the mod list
-[18:22:35] [Server thread/DEBUG] [FML]:   Adding TravelersBackpack-1.12.2-1.0.35.jar to the mod list
-[18:22:35] [Server thread/DEBUG] [FML]:   Adding MCA-Español-1.12.2.jar to the mod list
-[18:22:35] [Server thread/DEBUG] [FML]:   Adding jei_1.12.2-4.16.1.1013.jar to the mod list
-[18:22:35] [Server thread/DEBUG] [FML]:   Adding DungeonsMod-1.12.2-1.0.8.jar to the mod list
-[18:22:35] [Server thread/DEBUG] [FML]:   Adding tombstone-1.12.2-4.7.4.jar to the mod list
-[18:22:35] [Server thread/DEBUG] [FML]:   Adding artifacts-1.12.2-1.2.4.jar to the mod list
-[18:22:35] [Server thread/DEBUG] [FML]:   Adding CTM-MC1.12.2-1.0.2.31.jar to the mod list
-[18:22:35] [Server thread/DEBUG] [FML]:   Adding mOres-1.3.0-mc1.12.2.jar to the mod list
-[18:22:35] [Server thread/DEBUG] [FML]:   Adding jeiintegration_1.12.2-1.6.0.jar to the mod list
-[18:22:35] [Server thread/DEBUG] [FML]:   Adding furniture-6.3.2-1.12.2.jar to the mod list
-[18:22:35] [Server thread/DEBUG] [FML]:   Adding FallingTree-1.12.2-2.4.0.jar to the mod list
-[18:22:35] [Server thread/DEBUG] [FML]:   Adding journeymap-1.12.2-5.7.1p3.jar to the mod list
-[18:22:35] [Server thread/DEBUG] [FML]:   Adding extrautils2-1.12-1.9.9.jar to the mod list
-[18:22:35] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file artifacts-1.12.2-1.2.4.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file Chisel-MC1.12.2-1.0.2.45.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file CTM-MC1.12.2-1.0.2.31.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file DungeonsMod-1.12.2-1.0.8.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file extrautils2-1.12-1.9.9.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file FallingTree-1.12.2-2.4.0.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file furniture-6.3.2-1.12.2.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file jei_1.12.2-4.16.1.1013.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file jeiintegration_1.12.2-1.6.0.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file journeymap-1.12.2-5.7.1p3.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file MCA-Español-1.12.2.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file mOres-1.3.0-mc1.12.2.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file tombstone-1.12.2-4.7.4.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file torchmaster_1.12.2-1.8.4.84.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file TravelersBackpack-1.12.2-1.0.35.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Examining file forge-1.12.2-14.23.5.2860.jar for potential mods
-[18:22:35] [Server thread/DEBUG] [FML]: The mod container forge-1.12.2-14.23.5.2860.jar appears to be missing an mcmod.info file
-[18:22:35] [Server thread/DEBUG] [FML]: Examining file artifacts-1.12.2-1.2.4.jar for potential mods
-[18:22:35] [Server thread/TRACE] [FML]: Located mcmod.info file in file artifacts-1.12.2-1.2.4.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (artifacts.Artifacts) - loading
-[18:22:35] [Server thread/TRACE] [FML]: Parsed dependency info for artifacts: Requirements: [baubles] After:[baubles, artemislib] Before:[]
-[18:22:35] [Server thread/DEBUG] [FML]: Examining file Chisel-MC1.12.2-1.0.2.45.jar for potential mods
-[18:22:35] [Server thread/TRACE] [FML]: Located mcmod.info file in file Chisel-MC1.12.2-1.0.2.45.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (team.chisel.Chisel) - loading
-[18:22:35] [Server thread/TRACE] [FML]: Parsed dependency info for chisel: Requirements: [forge@[14.23.5.2806,)] After:[forge@[14.23.5.2806,), jei@[4.12.0,5)] Before:[]
-[18:22:35] [Server thread/DEBUG] [FML]: Examining file CTM-MC1.12.2-1.0.2.31.jar for potential mods
-[18:22:35] [Server thread/TRACE] [FML]: Located mcmod.info file in file CTM-MC1.12.2-1.0.2.31.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (team.chisel.ctm.CTM) - loading
-[18:22:35] [Server thread/INFO] [FML]: Disabling mod ctm it is client side only.
-[18:22:35] [Server thread/DEBUG] [FML]: Skipping mod team.chisel.ctm.CTM, container opted to not load.
-[18:22:35] [Server thread/DEBUG] [FML]: Examining file DungeonsMod-1.12.2-1.0.8.jar for potential mods
-[18:22:35] [Server thread/TRACE] [FML]: Located mcmod.info file in file DungeonsMod-1.12.2-1.0.8.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.dainxt.dungeonsmod.DungeonsMod) - loading
-[18:22:35] [Server thread/TRACE] [FML]: Parsed dependency info for dungeonsmod: Requirements: [] After:[] Before:[]
-[18:22:35] [Server thread/DEBUG] [FML]: Examining file extrautils2-1.12-1.9.9.jar for potential mods
-[18:22:35] [Server thread/TRACE] [FML]: Located mcmod.info file in file extrautils2-1.12-1.9.9.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.rwtema.extrautils2.ExtraUtils2) - loading
-[18:22:35] [Server thread/TRACE] [FML]: Parsed dependency info for extrautils2: Requirements: [] After:[tconstruct] Before:[]
-[18:22:35] [Server thread/DEBUG] [FML]: Examining file FallingTree-1.12.2-2.4.0.jar for potential mods
-[18:22:35] [Server thread/TRACE] [FML]: Located mcmod.info file in file FallingTree-1.12.2-2.4.0.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (fr.raksrinana.fallingtree.FallingTree) - loading
-[18:22:35] [Server thread/TRACE] [FML]: Parsed dependency info for falling_tree: Requirements: [] After:[] Before:[]
-[18:22:35] [Server thread/DEBUG] [FML]: Attempting to load the file version.properties from FallingTree-1.12.2-2.4.0.jar to locate a version number for mod falling_tree
-[18:22:35] [Server thread/WARN] [FML]: Mod falling_tree is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.0
-[18:22:35] [Server thread/DEBUG] [FML]: Examining file furniture-6.3.2-1.12.2.jar for potential mods
-[18:22:35] [Server thread/TRACE] [FML]: Located mcmod.info file in file furniture-6.3.2-1.12.2.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.mrcrayfish.furniture.MrCrayfishFurnitureMod) - loading
-[18:22:35] [Server thread/TRACE] [FML]: Parsed dependency info for cfm: Requirements: [] After:[crafttweaker] Before:[]
-[18:22:35] [Server thread/DEBUG] [FML]: Examining file jei_1.12.2-4.16.1.1013.jar for potential mods
-[18:22:35] [Server thread/TRACE] [FML]: Located mcmod.info file in file jei_1.12.2-4.16.1.1013.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mezz.jei.JustEnoughItems) - loading
-[18:22:35] [Server thread/TRACE] [FML]: Parsed dependency info for jei: Requirements: [forge@[14.23.5.2816,)] After:[forge@[14.23.5.2816,)] Before:[]
-[18:22:35] [Server thread/DEBUG] [FML]: Examining file jeiintegration_1.12.2-1.6.0.jar for potential mods
-[18:22:35] [Server thread/TRACE] [FML]: Located mcmod.info file in file jeiintegration_1.12.2-1.6.0.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.snowshock35.jeiintegration.JEIIntegration) - loading
-[18:22:35] [Server thread/INFO] [FML]: Disabling mod jeiintegration it is client side only.
-[18:22:35] [Server thread/DEBUG] [FML]: Skipping mod com.snowshock35.jeiintegration.JEIIntegration, container opted to not load.
-[18:22:35] [Server thread/DEBUG] [FML]: Examining file journeymap-1.12.2-5.7.1p3.jar for potential mods
-[18:22:35] [Server thread/TRACE] [FML]: Located mcmod.info file in file journeymap-1.12.2-5.7.1p3.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (journeymap.common.Journeymap) - loading
-[18:22:35] [Server thread/TRACE] [FML]: Using mcmod dependency info for journeymap: [] [Forge@[14.23.5.2768,)] []
-[18:22:35] [Server thread/DEBUG] [FML]: Examining file MCA-Español-1.12.2.jar for potential mods
-[18:22:35] [Server thread/TRACE] [FML]: Located mcmod.info file in file MCA-Español-1.12.2.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mca.core.MCA) - loading
-[18:22:35] [Server thread/TRACE] [FML]: Parsed dependency info for mca: Requirements: [] After:[] Before:[]
-[18:22:35] [Server thread/DEBUG] [FML]: Examining file mOres-1.3.0-mc1.12.2.jar for potential mods
-[18:22:35] [Server thread/TRACE] [FML]: Located mcmod.info file in file mOres-1.3.0-mc1.12.2.jar
-[18:22:35] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mod.mores.modid.Mores) - loading
-[18:22:35] [Server thread/TRACE] [FML]: Parsed dependency info for mores: Requirements: [] After:[] Before:[]
-[18:22:35] [Server thread/DEBUG] [FML]: Examining file tombstone-1.12.2-4.7.4.jar for potential mods
-[18:22:35] [Server thread/TRACE] [FML]: Located mcmod.info file in file tombstone-1.12.2-4.7.4.jar
-[18:22:36] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (ovh.corail.tombstone.ModTombstone) - loading
-[18:22:36] [Server thread/TRACE] [FML]: Parsed dependency info for tombstone: Requirements: [forge@[14.23.5.2838,)] After:[forge@[14.23.5.2838,)] Before:[erebus, enderio, forgeessentials, quark, advanced-fishing]
-[18:22:36] [Server thread/DEBUG] [FML]: Examining file torchmaster_1.12.2-1.8.4.84.jar for potential mods
-[18:22:36] [Server thread/TRACE] [FML]: Located mcmod.info file in file torchmaster_1.12.2-1.8.4.84.jar
-[18:22:36] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (net.xalcon.torchmaster.TorchMasterMod) - loading
-[18:22:36] [Server thread/TRACE] [FML]: Parsed dependency info for torchmaster: Requirements: [forge@[14.21.1.2394,)] After:[forge@[14.21.1.2394,)] Before:[]
-[18:22:36] [Server thread/DEBUG] [FML]: Examining file TravelersBackpack-1.12.2-1.0.35.jar for potential mods
-[18:22:36] [Server thread/TRACE] [FML]: Located mcmod.info file in file TravelersBackpack-1.12.2-1.0.35.jar
-[18:22:36] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.tiviacz.travelersbackpack.TravelersBackpack) - loading
-[18:22:36] [Server thread/TRACE] [FML]: Parsed dependency info for travelersbackpack: Requirements: [] After:[] Before:[]
-[18:22:36] [Server thread/INFO] [FML]: Forge Mod Loader has identified 17 mods to load
-[18:22:36] [Server thread/DEBUG] [FML]: Found API ovh.corail.tombstone.api.item (owned by tombstone providing tombstone-api-magic) embedded in tombstone
-[18:22:36] [Server thread/DEBUG] [FML]: Found API journeymap.client.api.model (owned by journeymap providing journeymap|client-api-model) embedded in journeymap
-[18:22:36] [Server thread/DEBUG] [FML]: Found API journeymap.client.api (owned by journeymap providing journeymap|client-api) embedded in journeymap
-[18:22:36] [Server thread/DEBUG] [FML]: Found API ovh.corail.tombstone.api (owned by tombstone providing tombstone-api) embedded in tombstone
-[18:22:36] [Server thread/DEBUG] [FML]: Found API journeymap.client.api.util (owned by journeymap providing journeymap|client-api-util) embedded in journeymap
-[18:22:36] [Server thread/DEBUG] [FML]: Found API ovh.corail.tombstone.api.event (owned by tombstone providing tombstone-api-event) embedded in tombstone
-[18:22:36] [Server thread/DEBUG] [FML]: Found API journeymap.client.api.display (owned by journeymap providing journeymap|client-api-display) embedded in journeymap
-[18:22:36] [Server thread/DEBUG] [FML]: Found API journeymap.client.api.event (owned by journeymap providing journeymap|client-api-event) embedded in journeymap
-[18:22:36] [Server thread/DEBUG] [FML]: Found API team.chisel.api (owned by chisel providing Chisel-API) embedded in chisel
-[18:22:36] [Server thread/DEBUG] [FML]: Found API team.chisel.api.carving (owned by Chisel providing ChiselAPI|Carving) embedded in chisel
-[18:22:36] [Server thread/DEBUG] [FML]: Found API mezz.jei.api (owned by jei providing JustEnoughItemsAPI) embedded in jei
-[18:22:36] [Server thread/DEBUG] [FML]: Found API ovh.corail.tombstone.api.capability (owned by tombstone providing tombstone-api-capability) embedded in tombstone
-[18:22:36] [Server thread/DEBUG] [FML]: Creating API container dummy for API JustEnoughItemsAPI: owner: jei, dependents: []
-[18:22:36] [Server thread/DEBUG] [FML]: Creating API container dummy for API journeymap|client-api-display: owner: journeymap, dependents: []
-[18:22:36] [Server thread/DEBUG] [FML]: Creating API container dummy for API ctm-api-events: owner: ctm, dependents: []
-[18:22:36] [Server thread/DEBUG] [FML]: Creating API container dummy for API tombstone-api-event: owner: tombstone, dependents: []
-[18:22:36] [Server thread/DEBUG] [FML]: Creating API container dummy for API ctm-api-utils: owner: ctm, dependents: []
-[18:22:36] [Server thread/DEBUG] [FML]: Creating API container dummy for API tombstone-api-capability: owner: tombstone, dependents: []
-[18:22:36] [Server thread/DEBUG] [FML]: Creating API container dummy for API tombstone-api-magic: owner: tombstone, dependents: []
-[18:22:36] [Server thread/DEBUG] [FML]: Creating API container dummy for API Chisel-API: owner: chisel, dependents: []
-[18:22:36] [Server thread/DEBUG] [FML]: Creating API container dummy for API ctm-api-models: owner: ctm, dependents: []
-[18:22:36] [Server thread/DEBUG] [FML]: Creating API container dummy for API ctm-api-textures: owner: ctm, dependents: []
-[18:22:36] [Server thread/DEBUG] [FML]: Creating API container dummy for API ChiselAPI|Carving: owner: Chisel, dependents: [chisel]
-[18:22:36] [Server thread/DEBUG] [FML]: Creating API container dummy for API journeymap|client-api-model: owner: journeymap, dependents: []
-[18:22:36] [Server thread/DEBUG] [FML]: Creating API container dummy for API journeymap|client-api: owner: journeymap, dependents: []
-[18:22:36] [Server thread/DEBUG] [FML]: Creating API container dummy for API tombstone-api: owner: tombstone, dependents: []
-[18:22:36] [Server thread/DEBUG] [FML]: Creating API container dummy for API journeymap|client-api-event: owner: journeymap, dependents: []
-[18:22:36] [Server thread/DEBUG] [FML]: Creating API container dummy for API journeymap|client-api-util: owner: journeymap, dependents: []
-[18:22:36] [Server thread/DEBUG] [FML]: Creating API container dummy for API ctm-api: owner: ctm, dependents: []
-[18:22:36] [Server thread/TRACE] [FML]: Received a system property request ''
-[18:22:36] [Server thread/TRACE] [FML]: System property request managing the state of 0 mods
-[18:22:36] [Server thread/DEBUG] [FML]: After merging, found state information for 0 mods
-[18:22:36] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[18:22:36] [Server thread/DEBUG] [FML]: Enabling mod artifacts
-[18:22:36] [Server thread/DEBUG] [FML]: Enabling mod chisel
-[18:22:36] [Server thread/DEBUG] [FML]: Enabling mod dungeonsmod
-[18:22:36] [Server thread/DEBUG] [FML]: Enabling mod extrautils2
-[18:22:36] [Server thread/DEBUG] [FML]: Enabling mod falling_tree
-[18:22:36] [Server thread/WARN] [FML]: Missing English translation for falling_tree: assets/falling_tree/lang/en_us.lang
-[18:22:36] [Server thread/DEBUG] [FML]: Enabling mod cfm
-[18:22:36] [Server thread/DEBUG] [FML]: Enabling mod jei
-[18:22:36] [Server thread/DEBUG] [FML]: Enabling mod journeymap
-[18:22:36] [Server thread/DEBUG] [FML]: Enabling mod mca
-[18:22:36] [Server thread/DEBUG] [FML]: Enabling mod mores
-[18:22:36] [Server thread/DEBUG] [FML]: Enabling mod tombstone
-[18:22:36] [Server thread/DEBUG] [FML]: Enabling mod torchmaster
-[18:22:36] [Server thread/DEBUG] [FML]: Enabling mod travelersbackpack
-[18:22:36] [Server thread/TRACE] [FML]: Verifying mod requirements are satisfied
-[18:22:36] [Server thread/FATAL] [FML]: net.minecraftforge.fml.common.MissingModsException: Mod artifacts (Artifacts) requires [baubles]
-[18:22:36] [Server thread/DEBUG] [FML]: Mod sorting data
-[18:22:36] [Server thread/DEBUG] [FML]: 	artifacts(Artifacts:1.12.2-1.2.4): artifacts-1.12.2-1.2.4.jar (required-after:baubles;after:artemislib)
-[18:22:36] [Server thread/DEBUG] [FML]: 	chisel(Chisel:MC1.12.2-1.0.2.45): Chisel-MC1.12.2-1.0.2.45.jar (required-after:forge@[14.23.5.2806,);required-after-client:ctm@[MC1.12.2-1.0.2.31,);after:jei@[4.12.0,5))
-[18:22:36] [Server thread/DEBUG] [FML]: 	dungeonsmod(Dungeons Mod:@VERSION@): DungeonsMod-1.12.2-1.0.8.jar ()
-[18:22:36] [Server thread/DEBUG] [FML]: 	extrautils2(Extra Utilities 2:1.0): extrautils2-1.12-1.9.9.jar (after:tconstruct)
-[18:22:36] [Server thread/DEBUG] [FML]: 	falling_tree(Falling Tree:2.4.0): FallingTree-1.12.2-2.4.0.jar ()
-[18:22:36] [Server thread/DEBUG] [FML]: 	cfm(MrCrayfish's Furniture Mod:6.3.0): furniture-6.3.2-1.12.2.jar (after:crafttweaker)
-[18:22:36] [Server thread/DEBUG] [FML]: 	jei(Just Enough Items:4.16.1.1013): jei_1.12.2-4.16.1.1013.jar (required-after:forge@[14.23.5.2816,);)
-[18:22:36] [Server thread/DEBUG] [FML]: 	journeymap(JourneyMap:1.12.2-5.7.1p3): journeymap-1.12.2-5.7.1p3.jar ()
-[18:22:36] [Server thread/DEBUG] [FML]: 	mca(Minecraft Comes Alive:6.1.0): MCA-Español-1.12.2.jar ()
-[18:22:36] [Server thread/DEBUG] [FML]: 	mores(mOres:2.0): mOres-1.3.0-mc1.12.2.jar ()
-[18:22:36] [Server thread/DEBUG] [FML]: 	tombstone(Corail Tombstone:4.7.4): tombstone-1.12.2-4.7.4.jar (required-after:forge@[14.23.5.2838,);before:erebus;before:enderio;before:forgeessentials;before:quark;before:advanced-fishing)
-[18:22:36] [Server thread/DEBUG] [FML]: 	torchmaster(TorchMaster:1.8.4.84): torchmaster_1.12.2-1.8.4.84.jar (required-after:forge@[14.21.1.2394,))
-[18:22:36] [Server thread/DEBUG] [FML]: 	travelersbackpack(Traveler's Backpack:1.0.35): TravelersBackpack-1.12.2-1.0.35.jar ()
-[18:22:36] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: Encountered an unexpected exception
+[18:23:06] [main/DEBUG] [FML]: Validating minecraft
+[18:23:06] [main/DEBUG] [FML]: Minecraft validated, launching...
+[18:23:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:23:06] [main/DEBUG] [FML]: Injecting coremod CTMCorePlugin \{team.chisel.ctm.client.asm.CTMCorePlugin\} class transformers
+[18:23:06] [main/TRACE] [FML]: Registering transformer team.chisel.ctm.client.asm.CTMTransformer
+[18:23:06] [main/DEBUG] [FML]: Injection complete
+[18:23:06] [main/DEBUG] [FML]: Running coremod plugin for CTMCorePlugin \{team.chisel.ctm.client.asm.CTMCorePlugin\}
+[18:23:06] [main/DEBUG] [FML]: Running coremod plugin CTMCorePlugin
+[18:23:06] [main/DEBUG] [FML]: Coremod plugin class CTMCorePlugin run successfully
+[18:23:06] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:23:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:23:06] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[18:23:06] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[18:23:06] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[18:23:08] [main/DEBUG] [FML]: Creating vanilla freeze snapshot
+[18:23:08] [main/DEBUG] [FML]: Vanilla freeze snapshot created
+[18:23:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[18:23:08] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[18:23:08] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[18:23:09] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[18:23:09] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[18:23:09] [Server thread/DEBUG] [FML]: File /workspaces/vigilant-tribble/servidor_minecraft/config/injectedDependencies.json not found. No dependencies injected
+[18:23:09] [Server thread/DEBUG] [FML]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
+[18:23:09] [Server thread/DEBUG] [FML]: Attempting to load mods contained in the minecraft jar file and associated classes
+[18:23:09] [Server thread/DEBUG] [FML]: Found a minecraft related file at /workspaces/vigilant-tribble/servidor_minecraft/forge-1.12.2-14.23.5.2860.jar, examining for mod candidates
+[18:23:09] [Server thread/TRACE] [FML]: Skipping known library file /workspaces/vigilant-tribble/servidor_minecraft/./mods/CTM-MC1.12.2-1.0.2.31.jar
+[18:23:09] [Server thread/DEBUG] [FML]: Minecraft jar mods loaded successfully
+[18:23:09] [Server thread/INFO] [FML]: Searching /workspaces/vigilant-tribble/servidor_minecraft/./mods for mods
+[18:23:09] [Server thread/DEBUG] [FML]:   Adding torchmaster_1.12.2-1.8.4.84.jar to the mod list
+[18:23:09] [Server thread/DEBUG] [FML]:   Adding Chisel-MC1.12.2-1.0.2.45.jar to the mod list
+[18:23:09] [Server thread/DEBUG] [FML]:   Adding TravelersBackpack-1.12.2-1.0.35.jar to the mod list
+[18:23:09] [Server thread/DEBUG] [FML]:   Adding MCA-Español-1.12.2.jar to the mod list
+[18:23:09] [Server thread/DEBUG] [FML]:   Adding jei_1.12.2-4.16.1.1013.jar to the mod list
+[18:23:09] [Server thread/DEBUG] [FML]:   Adding DungeonsMod-1.12.2-1.0.8.jar to the mod list
+[18:23:09] [Server thread/DEBUG] [FML]:   Adding tombstone-1.12.2-4.7.4.jar to the mod list
+[18:23:09] [Server thread/DEBUG] [FML]:   Adding artifacts-1.12.2-1.2.4.jar to the mod list
+[18:23:09] [Server thread/DEBUG] [FML]:   Adding CTM-MC1.12.2-1.0.2.31.jar to the mod list
+[18:23:09] [Server thread/DEBUG] [FML]:   Adding mOres-1.3.0-mc1.12.2.jar to the mod list
+[18:23:09] [Server thread/DEBUG] [FML]:   Adding jeiintegration_1.12.2-1.6.0.jar to the mod list
+[18:23:09] [Server thread/DEBUG] [FML]:   Adding furniture-6.3.2-1.12.2.jar to the mod list
+[18:23:09] [Server thread/DEBUG] [FML]:   Adding FallingTree-1.12.2-2.4.0.jar to the mod list
+[18:23:09] [Server thread/DEBUG] [FML]:   Adding journeymap-1.12.2-5.7.1p3.jar to the mod list
+[18:23:09] [Server thread/DEBUG] [FML]:   Adding extrautils2-1.12-1.9.9.jar to the mod list
+[18:23:09] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file artifacts-1.12.2-1.2.4.jar
+[18:23:09] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file Chisel-MC1.12.2-1.0.2.45.jar
+[18:23:09] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file CTM-MC1.12.2-1.0.2.31.jar
+[18:23:09] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file DungeonsMod-1.12.2-1.0.8.jar
+[18:23:09] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file extrautils2-1.12-1.9.9.jar
+[18:23:09] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file FallingTree-1.12.2-2.4.0.jar
+[18:23:09] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file furniture-6.3.2-1.12.2.jar
+[18:23:09] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file jei_1.12.2-4.16.1.1013.jar
+[18:23:09] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file jeiintegration_1.12.2-1.6.0.jar
+[18:23:09] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file journeymap-1.12.2-5.7.1p3.jar
+[18:23:09] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file MCA-Español-1.12.2.jar
+[18:23:09] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file mOres-1.3.0-mc1.12.2.jar
+[18:23:09] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file tombstone-1.12.2-4.7.4.jar
+[18:23:09] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file torchmaster_1.12.2-1.8.4.84.jar
+[18:23:09] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file TravelersBackpack-1.12.2-1.0.35.jar
+[18:23:09] [Server thread/DEBUG] [FML]: Examining file forge-1.12.2-14.23.5.2860.jar for potential mods
+[18:23:09] [Server thread/DEBUG] [FML]: The mod container forge-1.12.2-14.23.5.2860.jar appears to be missing an mcmod.info file
+[18:23:09] [Server thread/DEBUG] [FML]: Examining file artifacts-1.12.2-1.2.4.jar for potential mods
+[18:23:09] [Server thread/TRACE] [FML]: Located mcmod.info file in file artifacts-1.12.2-1.2.4.jar
+[18:23:09] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (artifacts.Artifacts) - loading
+[18:23:09] [Server thread/TRACE] [FML]: Parsed dependency info for artifacts: Requirements: [baubles] After:[baubles, artemislib] Before:[]
+[18:23:09] [Server thread/DEBUG] [FML]: Examining file Chisel-MC1.12.2-1.0.2.45.jar for potential mods
+[18:23:09] [Server thread/TRACE] [FML]: Located mcmod.info file in file Chisel-MC1.12.2-1.0.2.45.jar
+[18:23:09] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (team.chisel.Chisel) - loading
+[18:23:09] [Server thread/TRACE] [FML]: Parsed dependency info for chisel: Requirements: [forge@[14.23.5.2806,)] After:[forge@[14.23.5.2806,), jei@[4.12.0,5)] Before:[]
+[18:23:09] [Server thread/DEBUG] [FML]: Examining file CTM-MC1.12.2-1.0.2.31.jar for potential mods
+[18:23:09] [Server thread/TRACE] [FML]: Located mcmod.info file in file CTM-MC1.12.2-1.0.2.31.jar
+[18:23:09] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (team.chisel.ctm.CTM) - loading
+[18:23:09] [Server thread/INFO] [FML]: Disabling mod ctm it is client side only.
+[18:23:09] [Server thread/DEBUG] [FML]: Skipping mod team.chisel.ctm.CTM, container opted to not load.
+[18:23:09] [Server thread/DEBUG] [FML]: Examining file DungeonsMod-1.12.2-1.0.8.jar for potential mods
+[18:23:09] [Server thread/TRACE] [FML]: Located mcmod.info file in file DungeonsMod-1.12.2-1.0.8.jar
+[18:23:09] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.dainxt.dungeonsmod.DungeonsMod) - loading
+[18:23:09] [Server thread/TRACE] [FML]: Parsed dependency info for dungeonsmod: Requirements: [] After:[] Before:[]
+[18:23:09] [Server thread/DEBUG] [FML]: Examining file extrautils2-1.12-1.9.9.jar for potential mods
+[18:23:09] [Server thread/TRACE] [FML]: Located mcmod.info file in file extrautils2-1.12-1.9.9.jar
+[18:23:09] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.rwtema.extrautils2.ExtraUtils2) - loading
+[18:23:09] [Server thread/TRACE] [FML]: Parsed dependency info for extrautils2: Requirements: [] After:[tconstruct] Before:[]
+[18:23:10] [Server thread/DEBUG] [FML]: Examining file FallingTree-1.12.2-2.4.0.jar for potential mods
+[18:23:10] [Server thread/TRACE] [FML]: Located mcmod.info file in file FallingTree-1.12.2-2.4.0.jar
+[18:23:10] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (fr.raksrinana.fallingtree.FallingTree) - loading
+[18:23:10] [Server thread/TRACE] [FML]: Parsed dependency info for falling_tree: Requirements: [] After:[] Before:[]
+[18:23:10] [Server thread/DEBUG] [FML]: Attempting to load the file version.properties from FallingTree-1.12.2-2.4.0.jar to locate a version number for mod falling_tree
+[18:23:10] [Server thread/WARN] [FML]: Mod falling_tree is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.0
+[18:23:10] [Server thread/DEBUG] [FML]: Examining file furniture-6.3.2-1.12.2.jar for potential mods
+[18:23:10] [Server thread/TRACE] [FML]: Located mcmod.info file in file furniture-6.3.2-1.12.2.jar
+[18:23:10] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.mrcrayfish.furniture.MrCrayfishFurnitureMod) - loading
+[18:23:10] [Server thread/TRACE] [FML]: Parsed dependency info for cfm: Requirements: [] After:[crafttweaker] Before:[]
+[18:23:10] [Server thread/DEBUG] [FML]: Examining file jei_1.12.2-4.16.1.1013.jar for potential mods
+[18:23:10] [Server thread/TRACE] [FML]: Located mcmod.info file in file jei_1.12.2-4.16.1.1013.jar
+[18:23:10] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mezz.jei.JustEnoughItems) - loading
+[18:23:10] [Server thread/TRACE] [FML]: Parsed dependency info for jei: Requirements: [forge@[14.23.5.2816,)] After:[forge@[14.23.5.2816,)] Before:[]
+[18:23:10] [Server thread/DEBUG] [FML]: Examining file jeiintegration_1.12.2-1.6.0.jar for potential mods
+[18:23:10] [Server thread/TRACE] [FML]: Located mcmod.info file in file jeiintegration_1.12.2-1.6.0.jar
+[18:23:10] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.snowshock35.jeiintegration.JEIIntegration) - loading
+[18:23:10] [Server thread/INFO] [FML]: Disabling mod jeiintegration it is client side only.
+[18:23:10] [Server thread/DEBUG] [FML]: Skipping mod com.snowshock35.jeiintegration.JEIIntegration, container opted to not load.
+[18:23:10] [Server thread/DEBUG] [FML]: Examining file journeymap-1.12.2-5.7.1p3.jar for potential mods
+[18:23:10] [Server thread/TRACE] [FML]: Located mcmod.info file in file journeymap-1.12.2-5.7.1p3.jar
+[18:23:10] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (journeymap.common.Journeymap) - loading
+[18:23:10] [Server thread/TRACE] [FML]: Using mcmod dependency info for journeymap: [] [Forge@[14.23.5.2768,)] []
+[18:23:10] [Server thread/DEBUG] [FML]: Examining file MCA-Español-1.12.2.jar for potential mods
+[18:23:10] [Server thread/TRACE] [FML]: Located mcmod.info file in file MCA-Español-1.12.2.jar
+[18:23:10] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mca.core.MCA) - loading
+[18:23:10] [Server thread/TRACE] [FML]: Parsed dependency info for mca: Requirements: [] After:[] Before:[]
+[18:23:10] [Server thread/DEBUG] [FML]: Examining file mOres-1.3.0-mc1.12.2.jar for potential mods
+[18:23:10] [Server thread/TRACE] [FML]: Located mcmod.info file in file mOres-1.3.0-mc1.12.2.jar
+[18:23:10] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mod.mores.modid.Mores) - loading
+[18:23:10] [Server thread/TRACE] [FML]: Parsed dependency info for mores: Requirements: [] After:[] Before:[]
+[18:23:10] [Server thread/DEBUG] [FML]: Examining file tombstone-1.12.2-4.7.4.jar for potential mods
+[18:23:10] [Server thread/TRACE] [FML]: Located mcmod.info file in file tombstone-1.12.2-4.7.4.jar
+[18:23:10] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (ovh.corail.tombstone.ModTombstone) - loading
+[18:23:10] [Server thread/TRACE] [FML]: Parsed dependency info for tombstone: Requirements: [forge@[14.23.5.2838,)] After:[forge@[14.23.5.2838,)] Before:[erebus, enderio, forgeessentials, quark, advanced-fishing]
+[18:23:10] [Server thread/DEBUG] [FML]: Examining file torchmaster_1.12.2-1.8.4.84.jar for potential mods
+[18:23:10] [Server thread/TRACE] [FML]: Located mcmod.info file in file torchmaster_1.12.2-1.8.4.84.jar
+[18:23:10] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (net.xalcon.torchmaster.TorchMasterMod) - loading
+[18:23:10] [Server thread/TRACE] [FML]: Parsed dependency info for torchmaster: Requirements: [forge@[14.21.1.2394,)] After:[forge@[14.21.1.2394,)] Before:[]
+[18:23:10] [Server thread/DEBUG] [FML]: Examining file TravelersBackpack-1.12.2-1.0.35.jar for potential mods
+[18:23:10] [Server thread/TRACE] [FML]: Located mcmod.info file in file TravelersBackpack-1.12.2-1.0.35.jar
+[18:23:10] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.tiviacz.travelersbackpack.TravelersBackpack) - loading
+[18:23:10] [Server thread/TRACE] [FML]: Parsed dependency info for travelersbackpack: Requirements: [] After:[] Before:[]
+[18:23:10] [Server thread/INFO] [FML]: Forge Mod Loader has identified 17 mods to load
+[18:23:10] [Server thread/DEBUG] [FML]: Found API journeymap.client.api.event (owned by journeymap providing journeymap|client-api-event) embedded in journeymap
+[18:23:10] [Server thread/DEBUG] [FML]: Found API team.chisel.api (owned by chisel providing Chisel-API) embedded in chisel
+[18:23:10] [Server thread/DEBUG] [FML]: Found API ovh.corail.tombstone.api.item (owned by tombstone providing tombstone-api-magic) embedded in tombstone
+[18:23:10] [Server thread/DEBUG] [FML]: Found API journeymap.client.api.model (owned by journeymap providing journeymap|client-api-model) embedded in journeymap
+[18:23:10] [Server thread/DEBUG] [FML]: Found API mezz.jei.api (owned by jei providing JustEnoughItemsAPI) embedded in jei
+[18:23:10] [Server thread/DEBUG] [FML]: Found API journeymap.client.api.util (owned by journeymap providing journeymap|client-api-util) embedded in journeymap
+[18:23:10] [Server thread/DEBUG] [FML]: Found API ovh.corail.tombstone.api.event (owned by tombstone providing tombstone-api-event) embedded in tombstone
+[18:23:10] [Server thread/DEBUG] [FML]: Found API journeymap.client.api.display (owned by journeymap providing journeymap|client-api-display) embedded in journeymap
+[18:23:10] [Server thread/DEBUG] [FML]: Found API ovh.corail.tombstone.api.capability (owned by tombstone providing tombstone-api-capability) embedded in tombstone
+[18:23:10] [Server thread/DEBUG] [FML]: Found API team.chisel.api.carving (owned by Chisel providing ChiselAPI|Carving) embedded in chisel
+[18:23:10] [Server thread/DEBUG] [FML]: Found API journeymap.client.api (owned by journeymap providing journeymap|client-api) embedded in journeymap
+[18:23:10] [Server thread/DEBUG] [FML]: Found API ovh.corail.tombstone.api (owned by tombstone providing tombstone-api) embedded in tombstone
+[18:23:10] [Server thread/DEBUG] [FML]: Creating API container dummy for API JustEnoughItemsAPI: owner: jei, dependents: []
+[18:23:10] [Server thread/DEBUG] [FML]: Creating API container dummy for API journeymap|client-api-display: owner: journeymap, dependents: []
+[18:23:10] [Server thread/DEBUG] [FML]: Creating API container dummy for API ctm-api-events: owner: ctm, dependents: []
+[18:23:10] [Server thread/DEBUG] [FML]: Creating API container dummy for API tombstone-api-event: owner: tombstone, dependents: []
+[18:23:10] [Server thread/DEBUG] [FML]: Creating API container dummy for API ctm-api-utils: owner: ctm, dependents: []
+[18:23:10] [Server thread/DEBUG] [FML]: Creating API container dummy for API tombstone-api-capability: owner: tombstone, dependents: []
+[18:23:10] [Server thread/DEBUG] [FML]: Creating API container dummy for API Chisel-API: owner: chisel, dependents: []
+[18:23:10] [Server thread/DEBUG] [FML]: Creating API container dummy for API tombstone-api-magic: owner: tombstone, dependents: []
+[18:23:10] [Server thread/DEBUG] [FML]: Creating API container dummy for API ctm-api-models: owner: ctm, dependents: []
+[18:23:10] [Server thread/DEBUG] [FML]: Creating API container dummy for API ctm-api-textures: owner: ctm, dependents: []
+[18:23:10] [Server thread/DEBUG] [FML]: Creating API container dummy for API ChiselAPI|Carving: owner: Chisel, dependents: [chisel]
+[18:23:10] [Server thread/DEBUG] [FML]: Creating API container dummy for API journeymap|client-api-model: owner: journeymap, dependents: []
+[18:23:10] [Server thread/DEBUG] [FML]: Creating API container dummy for API journeymap|client-api: owner: journeymap, dependents: []
+[18:23:10] [Server thread/DEBUG] [FML]: Creating API container dummy for API tombstone-api: owner: tombstone, dependents: []
+[18:23:10] [Server thread/DEBUG] [FML]: Creating API container dummy for API journeymap|client-api-event: owner: journeymap, dependents: []
+[18:23:10] [Server thread/DEBUG] [FML]: Creating API container dummy for API ctm-api: owner: ctm, dependents: []
+[18:23:10] [Server thread/DEBUG] [FML]: Creating API container dummy for API journeymap|client-api-util: owner: journeymap, dependents: []
+[18:23:10] [Server thread/TRACE] [FML]: Received a system property request ''
+[18:23:10] [Server thread/TRACE] [FML]: System property request managing the state of 0 mods
+[18:23:10] [Server thread/DEBUG] [FML]: After merging, found state information for 0 mods
+[18:23:10] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[18:23:10] [Server thread/DEBUG] [FML]: Enabling mod artifacts
+[18:23:10] [Server thread/DEBUG] [FML]: Enabling mod chisel
+[18:23:10] [Server thread/DEBUG] [FML]: Enabling mod dungeonsmod
+[18:23:10] [Server thread/DEBUG] [FML]: Enabling mod extrautils2
+[18:23:10] [Server thread/DEBUG] [FML]: Enabling mod falling_tree
+[18:23:10] [Server thread/WARN] [FML]: Missing English translation for falling_tree: assets/falling_tree/lang/en_us.lang
+[18:23:10] [Server thread/DEBUG] [FML]: Enabling mod cfm
+[18:23:10] [Server thread/DEBUG] [FML]: Enabling mod jei
+[18:23:10] [Server thread/DEBUG] [FML]: Enabling mod journeymap
+[18:23:10] [Server thread/DEBUG] [FML]: Enabling mod mca
+[18:23:10] [Server thread/DEBUG] [FML]: Enabling mod mores
+[18:23:10] [Server thread/DEBUG] [FML]: Enabling mod tombstone
+[18:23:10] [Server thread/DEBUG] [FML]: Enabling mod torchmaster
+[18:23:10] [Server thread/DEBUG] [FML]: Enabling mod travelersbackpack
+[18:23:10] [Server thread/TRACE] [FML]: Verifying mod requirements are satisfied
+[18:23:10] [Server thread/FATAL] [FML]: net.minecraftforge.fml.common.MissingModsException: Mod artifacts (Artifacts) requires [baubles]
+[18:23:10] [Server thread/DEBUG] [FML]: Mod sorting data
+[18:23:10] [Server thread/DEBUG] [FML]: 	artifacts(Artifacts:1.12.2-1.2.4): artifacts-1.12.2-1.2.4.jar (required-after:baubles;after:artemislib)
+[18:23:10] [Server thread/DEBUG] [FML]: 	chisel(Chisel:MC1.12.2-1.0.2.45): Chisel-MC1.12.2-1.0.2.45.jar (required-after:forge@[14.23.5.2806,);required-after-client:ctm@[MC1.12.2-1.0.2.31,);after:jei@[4.12.0,5))
+[18:23:10] [Server thread/DEBUG] [FML]: 	dungeonsmod(Dungeons Mod:@VERSION@): DungeonsMod-1.12.2-1.0.8.jar ()
+[18:23:10] [Server thread/DEBUG] [FML]: 	extrautils2(Extra Utilities 2:1.0): extrautils2-1.12-1.9.9.jar (after:tconstruct)
+[18:23:10] [Server thread/DEBUG] [FML]: 	falling_tree(Falling Tree:2.4.0): FallingTree-1.12.2-2.4.0.jar ()
+[18:23:10] [Server thread/DEBUG] [FML]: 	cfm(MrCrayfish's Furniture Mod:6.3.0): furniture-6.3.2-1.12.2.jar (after:crafttweaker)
+[18:23:10] [Server thread/DEBUG] [FML]: 	jei(Just Enough Items:4.16.1.1013): jei_1.12.2-4.16.1.1013.jar (required-after:forge@[14.23.5.2816,);)
+[18:23:10] [Server thread/DEBUG] [FML]: 	journeymap(JourneyMap:1.12.2-5.7.1p3): journeymap-1.12.2-5.7.1p3.jar ()
+[18:23:10] [Server thread/DEBUG] [FML]: 	mca(Minecraft Comes Alive:6.1.0): MCA-Español-1.12.2.jar ()
+[18:23:10] [Server thread/DEBUG] [FML]: 	mores(mOres:2.0): mOres-1.3.0-mc1.12.2.jar ()
+[18:23:10] [Server thread/DEBUG] [FML]: 	tombstone(Corail Tombstone:4.7.4): tombstone-1.12.2-4.7.4.jar (required-after:forge@[14.23.5.2838,);before:erebus;before:enderio;before:forgeessentials;before:quark;before:advanced-fishing)
+[18:23:10] [Server thread/DEBUG] [FML]: 	torchmaster(TorchMaster:1.8.4.84): torchmaster_1.12.2-1.8.4.84.jar (required-after:forge@[14.21.1.2394,))
+[18:23:10] [Server thread/DEBUG] [FML]: 	travelersbackpack(Traveler's Backpack:1.0.35): TravelersBackpack-1.12.2-1.0.35.jar ()
+[18:23:10] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: Encountered an unexpected exception
 net.minecraftforge.fml.common.MissingModsException: Mod artifacts (Artifacts) requires [baubles]
 	at net.minecraftforge.fml.common.Loader.sortModList(Loader.java:266) ~[Loader.class:?]
 	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:572) ~[Loader.class:?]
@@ -328,61 +328,61 @@ net.minecraftforge.fml.common.MissingModsException: Mod artifacts (Artifacts) re
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) ~[nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[18:22:36] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: This crash report has been saved to: /workspaces/vigilant-tribble/servidor_minecraft/./crash-reports/crash-2025-01-23_18.22.36-server.txt
-[18:22:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[18:22:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[18:22:36] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod minecraft
-[18:22:36] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod minecraft
-[18:22:36] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft took 0.001s
-[18:22:36] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mcp
-[18:22:36] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mcp
-[18:22:36] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.001s
-[18:22:36] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod FML
-[18:22:36] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod FML
-[18:22:36] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
-[18:22:36] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod forge
-[18:22:36] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod forge
-[18:22:36] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
-[18:22:36] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod artifacts
-[18:22:36] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod artifacts
-[18:22:36] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Artifacts took 0.001s
-[18:22:36] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod chisel
-[18:22:36] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod chisel
-[18:22:36] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Chisel took 0.000s
-[18:22:36] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod dungeonsmod
-[18:22:36] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod dungeonsmod
-[18:22:36] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Dungeons Mod took 0.000s
-[18:22:36] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod extrautils2
-[18:22:36] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod extrautils2
-[18:22:36] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Extra Utilities 2 took 0.000s
-[18:22:36] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod falling_tree
-[18:22:36] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod falling_tree
-[18:22:36] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Falling Tree took 0.000s
-[18:22:36] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod cfm
-[18:22:36] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod cfm
-[18:22:36] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - MrCrayfish's Furniture Mod took 0.000s
-[18:22:36] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod jei
-[18:22:36] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod jei
-[18:22:36] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Just Enough Items took 0.000s
-[18:22:36] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod journeymap
-[18:22:36] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod journeymap
-[18:22:36] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - JourneyMap took 0.000s
-[18:22:36] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mca
-[18:22:36] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mca
-[18:22:36] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Comes Alive took 0.000s
-[18:22:36] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mores
-[18:22:36] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mores
-[18:22:36] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - mOres took 0.000s
-[18:22:36] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod tombstone
-[18:22:36] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod tombstone
-[18:22:36] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Corail Tombstone took 0.000s
-[18:22:36] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod torchmaster
-[18:22:36] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod torchmaster
-[18:22:36] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - TorchMaster took 0.001s
-[18:22:36] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod travelersbackpack
-[18:22:36] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod travelersbackpack
-[18:22:36] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Traveler's Backpack took 0.001s
-[18:22:36] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopped took 0.008s
-[18:22:36] [Server thread/INFO] [FML]: The state engine was in incorrect state CONSTRUCTING and forced into state SERVER_STOPPED. Errors may have been discarded.
-[18:22:36] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[18:22:36] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:23:10] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: This crash report has been saved to: /workspaces/vigilant-tribble/servidor_minecraft/./crash-reports/crash-2025-01-23_18.23.10-server.txt
+[18:23:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:23:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:23:10] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod minecraft
+[18:23:10] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod minecraft
+[18:23:10] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft took 0.001s
+[18:23:10] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mcp
+[18:23:10] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mcp
+[18:23:10] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.002s
+[18:23:10] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod FML
+[18:23:10] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod FML
+[18:23:10] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Forge Mod Loader took 0.001s
+[18:23:10] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod forge
+[18:23:10] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod forge
+[18:23:10] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Forge took 0.001s
+[18:23:10] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod artifacts
+[18:23:10] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod artifacts
+[18:23:10] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Artifacts took 0.001s
+[18:23:10] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod chisel
+[18:23:10] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod chisel
+[18:23:10] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Chisel took 0.001s
+[18:23:10] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod dungeonsmod
+[18:23:10] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod dungeonsmod
+[18:23:10] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Dungeons Mod took 0.001s
+[18:23:10] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod extrautils2
+[18:23:10] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod extrautils2
+[18:23:10] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Extra Utilities 2 took 0.001s
+[18:23:10] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod falling_tree
+[18:23:10] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod falling_tree
+[18:23:10] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Falling Tree took 0.001s
+[18:23:10] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod cfm
+[18:23:10] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod cfm
+[18:23:10] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - MrCrayfish's Furniture Mod took 0.001s
+[18:23:10] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod jei
+[18:23:10] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod jei
+[18:23:10] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Just Enough Items took 0.001s
+[18:23:10] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod journeymap
+[18:23:10] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod journeymap
+[18:23:10] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - JourneyMap took 0.001s
+[18:23:10] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mca
+[18:23:10] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mca
+[18:23:10] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Comes Alive took 0.001s
+[18:23:10] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mores
+[18:23:10] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mores
+[18:23:10] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - mOres took 0.001s
+[18:23:10] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod tombstone
+[18:23:10] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod tombstone
+[18:23:10] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Corail Tombstone took 0.001s
+[18:23:10] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod torchmaster
+[18:23:10] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod torchmaster
+[18:23:10] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - TorchMaster took 0.001s
+[18:23:10] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod travelersbackpack
+[18:23:10] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod travelersbackpack
+[18:23:10] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Traveler's Backpack took 0.001s
+[18:23:10] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopped took 0.012s
+[18:23:10] [Server thread/INFO] [FML]: The state engine was in incorrect state CONSTRUCTING and forced into state SERVER_STOPPED. Errors may have been discarded.
+[18:23:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:23:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

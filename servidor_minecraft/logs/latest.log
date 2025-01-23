@@ -1,327 +1,247 @@
-[22:08:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[22:08:33] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[22:08:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[22:08:33] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[22:08:33] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[22:08:33] [main/INFO] [FML]: Searching /workspaces/vigilant-tribble/servidor_minecraft/./mods for mods
-[22:08:33] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.2.31.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[22:08:33] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[22:08:33] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
-[22:08:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:08:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[22:08:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:08:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:08:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:08:35] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[22:08:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:08:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[22:08:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:08:35] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[22:08:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[22:08:36] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[22:08:36] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
-[22:08:36] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
-[22:08:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[22:08:39] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[22:08:39] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[22:08:39] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[22:08:40] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[22:08:40] [Server thread/INFO] [FML]: Searching /workspaces/vigilant-tribble/servidor_minecraft/./mods for mods
-[22:08:40] [Server thread/INFO] [FML]: Disabling mod ctm it is client side only.
-[22:08:41] [Server thread/INFO] [FML]: Disabling mod jeiintegration it is client side only.
-[22:08:41] [Server thread/INFO] [FML]: Forge Mod Loader has identified 15 mods to load
-[22:08:41] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[22:08:41] [Server thread/INFO] [FML]: FML has found a non-mod file CTM-MC1.12.2-1.0.2.31.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[22:08:41] [Server thread/INFO] [FML]: FML has found a non-mod file jeiintegration_1.12.2-1.6.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[22:08:42] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, chisel, dungeonsmod, extrautils2, cfm, jei, journeymap, mca, mores, tombstone, torchmaster, travelersbackpack] at CLIENT
-[22:08:42] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, chisel, dungeonsmod, extrautils2, cfm, jei, journeymap, mca, mores, tombstone, torchmaster, travelersbackpack] at SERVER
-[22:08:43] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[22:08:43] [Server thread/INFO] [FML]: Found 1259 ObjectHolder annotations
-[22:08:43] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[22:08:43] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[22:08:43] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[22:08:43] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[22:08:43] [Server thread/INFO] [FML]: Applying holder lookups
-[22:08:43] [Server thread/INFO] [FML]: Holder lookups applied
-[22:08:43] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
-[22:08:43] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[22:08:44] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[22:08:44] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[22:08:44] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: UP_TO_DATE Target: null
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `xutesrtile`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilesoundmuffler`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcan`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcanfluids`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcanenergy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepassivegenerator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepowerhandcrank`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilesupermobspawner`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepoweroverload`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileresonator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilespotlight`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilescreen`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletransferholder`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileplayerchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilechunkloader`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileindexer`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecrafter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilescanner`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilemine`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileuse`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank16`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank256`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank4096`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank65536`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tankinf`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilemachineprovider`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilemachinereceiver`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileteleporter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepowertransmitter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepowerbattery`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilequarryproxy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilequarry`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilelargishchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileminchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilerainbowgenerator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecreativechest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecreativeenergy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecreativeharvest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileterraformer`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileterraformerclimograph`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileanalogcrafter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileinteractionproxy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:45] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/latest
-[22:08:45] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/supporters
-[22:08:45] [Server thread/INFO] [mca]: Loaded 1 supporters.
-[22:08:46] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
-[22:08:46] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
-[22:08:46] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
-[22:08:46] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
-[22:08:46] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
-[22:08:46] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
-[22:08:46] [Server thread/INFO] [Chisel]: Loading blocks...
-[22:08:46] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
-[22:08:46] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
-[22:08:46] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
-[22:08:46] [Server thread/INFO] [Chisel]: 72 Feature's blocks loaded.
-[22:08:46] [Server thread/INFO] [Chisel]: Loading Tile Entities...
-[22:08:46] [Server thread/INFO] [Chisel]: Tile Entities loaded.
-[22:08:46] [Server thread/INFO] [FML]: Applying holder lookups
-[22:08:46] [Server thread/INFO] [FML]: Holder lookups applied
-[22:08:46] [Server thread/INFO] [Chisel]: Loading items...
-[22:08:46] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
-[22:08:46] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
-[22:08:46] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
-[22:08:46] [Server thread/INFO] [Chisel]: 72 Feature's items loaded.
-[22:08:46] [Server thread/INFO] [FML]: Applying holder lookups
-[22:08:46] [Server thread/INFO] [FML]: Holder lookups applied
-[22:08:46] [Server thread/INFO] [FML]: Applying holder lookups
-[22:08:46] [Server thread/INFO] [FML]: Holder lookups applied
-[22:08:46] [Server thread/INFO] [FML]: Applying holder lookups
-[22:08:46] [Server thread/INFO] [FML]: Holder lookups applied
-[22:08:46] [Server thread/INFO] [FML]: Injecting itemstacks
-[22:08:46] [Server thread/INFO] [FML]: Itemstack injection complete
-[22:08:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[22:08:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[22:08:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[22:08:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[22:08:46] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[22:08:46] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:08:46] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[22:08:46] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:08:46] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:08:47] [Server thread/INFO] [Chisel]: Loading recipes...
-[22:08:47] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
-[22:08:47] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
-[22:08:47] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
-[22:08:47] [Server thread/INFO] [Chisel]: 72 Feature's recipes loaded.
-[22:08:47] [Server thread/INFO] [FML]: Applying holder lookups
-[22:08:47] [Server thread/INFO] [FML]: Holder lookups applied
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmoven`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfridge`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfreezer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbedsidecabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmailbox`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcomputer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmprinter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmstereo`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmpresent`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbin`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwallcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbath`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmshowerhead`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmplate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcouch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtoaster`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmchoppingboard`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmblender`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmicrowave`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwashingmachine`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdishwasher`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinetkitchen`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcup`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcookiejar`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtree`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmirror`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmgrill`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmeski`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdoormat`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcrate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmlightswitch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmceilingfan`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdeskcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmodernslidingdoor`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdigitalclock`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtv`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounterdrawer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ruby`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `amethyst`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cobalt`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `copper`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `sapphire`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `silver`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `topaz`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `turquoise`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `moissanite`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `steel`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `onyx`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tourmaline`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tin`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tanzanite`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bronze`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `graphene`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `turquartz`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `sterling`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
-[22:08:47] [Server thread/INFO] [FML]: Injecting itemstacks
-[22:08:47] [Server thread/INFO] [FML]: Itemstack injection complete
-[22:08:47] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(-4, -8) invalid, -8 smaller than -4
-[22:08:47] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[22:08:47] [Server thread/INFO] [torchmaster]: Applying mega torch entity block list overrides...
-[22:08:47] [Server thread/INFO] [torchmaster]: Applying dread lamp entity block list overrides...
-[22:08:47] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 15 mods
-[22:08:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[22:08:47] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[22:08:48] [Server thread/INFO] [FML]: Applying holder lookups
-[22:08:48] [Server thread/INFO] [FML]: Holder lookups applied
-[22:08:48] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@ce51e9a)
-[22:08:49] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 718 advancements
-[22:08:49] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@ce51e9a)
-[22:08:49] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@ce51e9a)
-[22:08:49] [Server thread/INFO] [FML]: Loading dimension -11325 (world) (net.minecraft.server.dedicated.DedicatedServer@ce51e9a)
-[22:08:49] [Server thread/INFO] [FML]: Loading dimension -9999 (world) (net.minecraft.server.dedicated.DedicatedServer@ce51e9a)
-[22:08:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[22:08:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 39%
-[22:08:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.179s)! For help, type "help" or "?"
-[22:08:51] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:08:51] [Server thread/INFO] [FML]: Unloading dimension 1
-[22:08:51] [Server thread/INFO] [FML]: Unloading dimension -11325
-[22:08:57] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[22:08:57] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 18 mods : minecraft@1.12.2,torchmaster@1.8.4.84,dungeonsmod@@VERSION@,FML@8.0.99.99,tombstone@4.7.4,mca@6.1.0,mores@2.0,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,waila@1.8.26,jei@4.16.1.1013,forge@14.23.5.2860,extrautils2@1.0,jeiintegration@1.6.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,travelersbackpack@1.0.35
-[22:08:57] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
-[22:08:59] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[22:08:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: onlygaby[/127.135.234.72:36805] logged in with entity id 287 at (-250.65328667852123, 64.0, -54.718206260434414)
-[22:08:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby joined the game
-[22:09:03] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
-[22:09:03] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 18 mods : minecraft@1.12.2,torchmaster@1.8.4.84,dungeonsmod@@VERSION@,FML@8.0.99.99,tombstone@4.7.4,mca@6.1.0,mores@2.0,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,waila@1.8.26,jei@4.16.1.1013,forge@14.23.5.2860,extrautils2@1.0,jeiintegration@1.6.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,travelersbackpack@1.0.35
-[22:09:03] [Netty Epoll Server IO #5/INFO] [journeymap]: CLIENT
-[22:09:04] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[22:09:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Uzumaki0502[/127.58.111.88:43301] logged in with entity id 527 at (-251.9015351906393, 64.0, -53.69465860889886)
-[22:09:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 joined the game
-[22:11:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Creative Mode]
-[22:12:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Survival Mode]
-[22:36:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: onlygaby moved too quickly! -5.262716993707841,0.2712241076924897,-8.798666367522088
-[22:44:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: onlygaby moved too quickly! 5.476096406914451,0.839194558085147,-8.514174218606925
-[22:49:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: onlygaby moved too quickly! -1.6118329325128116,0.0,-9.967042323176813
-[22:56:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! -11.283609871625345,5.58676431274408,4.725757323187338
-[22:56:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 has reached the goal [Strong or Careful]
-[22:56:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 drowned whilst trying to escape Kraken
-[22:56:19] [Server thread/INFO] [tombstone]: The last known grave of Uzumaki0502 is at location [name:Last Grave, x:-628, y:63, z:-272] in the dimension 0
-[22:56:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 has made the advancement [Your First Grave]
-[22:56:19] [Server thread/INFO] [tombstone]: Uzumaki0502 has successfully been saved
-[22:57:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 has reached the goal [Here They Come]
-[22:57:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 was slain by Kraken
-[22:57:42] [Server thread/INFO] [tombstone]: Uzumaki0502 has successfully been saved
-[22:57:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[22:57:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! 377.5,6.5,217.5
-[23:01:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved wrongly!
-[23:01:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved wrongly!
-[23:01:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved wrongly!
-[23:01:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved wrongly!
-[23:01:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved wrongly!
-[23:01:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved wrongly!
-[23:01:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Creative Mode]
-[23:03:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 got revenge on Kraken
-[23:03:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 has made the advancement [Sea Tamer]
-[23:04:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Survival Mode]
-[23:11:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: onlygaby lost connection: Disconnected
-[23:11:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby left the game
-[23:12:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 lost connection: Disconnected
-[23:12:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 left the game
-[23:13:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[23:13:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[23:13:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[23:13:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[23:13:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[23:13:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
-[23:13:08] [Server thread/INFO] [FML]: Unloading dimension 0
-[23:13:08] [Server thread/INFO] [FML]: Unloading dimension -9999
-[23:13:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[23:13:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[23:13:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:14:07] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:14:07] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:14:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:14:07] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[18:14:07] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[18:14:07] [main/INFO] [FML]: Searching /workspaces/vigilant-tribble/servidor_minecraft/./mods for mods
+[18:14:07] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.2.31.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18:14:07] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:14:07] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[18:14:07] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:14:07] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:14:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:14:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:14:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:14:09] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[18:14:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:14:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:14:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:14:09] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:14:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:14:10] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[18:14:10] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[18:14:10] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[18:14:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[18:14:14] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[18:14:14] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[18:14:14] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[18:14:14] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[18:14:14] [Server thread/INFO] [FML]: Searching /workspaces/vigilant-tribble/servidor_minecraft/./mods for mods
+[18:14:15] [Server thread/INFO] [FML]: Disabling mod ctm it is client side only.
+[18:14:15] [Server thread/INFO] [FML]: Disabling mod jeiintegration it is client side only.
+[18:14:16] [Server thread/INFO] [FML]: Forge Mod Loader has identified 15 mods to load
+[18:14:16] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[18:14:16] [Server thread/INFO] [FML]: FML has found a non-mod file CTM-MC1.12.2-1.0.2.31.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[18:14:16] [Server thread/INFO] [FML]: FML has found a non-mod file jeiintegration_1.12.2-1.6.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[18:14:16] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, chisel, dungeonsmod, extrautils2, cfm, jei, journeymap, mca, mores, tombstone, torchmaster, travelersbackpack] at CLIENT
+[18:14:16] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, chisel, dungeonsmod, extrautils2, cfm, jei, journeymap, mca, mores, tombstone, torchmaster, travelersbackpack] at SERVER
+[18:14:17] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[18:14:17] [Server thread/INFO] [FML]: Found 1259 ObjectHolder annotations
+[18:14:17] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[18:14:17] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[18:14:17] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[18:14:17] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[18:14:17] [Server thread/INFO] [FML]: Applying holder lookups
+[18:14:17] [Server thread/INFO] [FML]: Holder lookups applied
+[18:14:18] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
+[18:14:18] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[18:14:18] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: UP_TO_DATE Target: null
+[18:14:18] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[18:14:18] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `xutesrtile`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilesoundmuffler`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcan`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcanfluids`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcanenergy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepassivegenerator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepowerhandcrank`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilesupermobspawner`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepoweroverload`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileresonator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilespotlight`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilescreen`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletransferholder`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileplayerchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilechunkloader`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileindexer`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecrafter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilescanner`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilemine`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileuse`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank16`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank256`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank4096`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank65536`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tankinf`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilemachineprovider`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilemachinereceiver`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileteleporter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepowertransmitter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepowerbattery`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilequarryproxy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilequarry`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilelargishchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileminchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilerainbowgenerator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecreativechest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecreativeenergy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecreativeharvest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileterraformer`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileterraformerclimograph`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileanalogcrafter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileinteractionproxy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:20] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/latest
+[18:14:20] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/supporters
+[18:14:20] [Server thread/INFO] [mca]: Loaded 1 supporters.
+[18:14:20] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
+[18:14:20] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
+[18:14:20] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
+[18:14:20] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
+[18:14:20] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
+[18:14:20] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
+[18:14:20] [Server thread/INFO] [Chisel]: Loading blocks...
+[18:14:21] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[18:14:21] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[18:14:21] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[18:14:21] [Server thread/INFO] [Chisel]: 72 Feature's blocks loaded.
+[18:14:21] [Server thread/INFO] [Chisel]: Loading Tile Entities...
+[18:14:21] [Server thread/INFO] [Chisel]: Tile Entities loaded.
+[18:14:21] [Server thread/INFO] [FML]: Applying holder lookups
+[18:14:21] [Server thread/INFO] [FML]: Holder lookups applied
+[18:14:21] [Server thread/INFO] [Chisel]: Loading items...
+[18:14:21] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[18:14:21] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[18:14:21] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[18:14:21] [Server thread/INFO] [Chisel]: 72 Feature's items loaded.
+[18:14:21] [Server thread/INFO] [FML]: Applying holder lookups
+[18:14:21] [Server thread/INFO] [FML]: Holder lookups applied
+[18:14:21] [Server thread/INFO] [FML]: Applying holder lookups
+[18:14:21] [Server thread/INFO] [FML]: Holder lookups applied
+[18:14:21] [Server thread/INFO] [FML]: Applying holder lookups
+[18:14:21] [Server thread/INFO] [FML]: Holder lookups applied
+[18:14:21] [Server thread/INFO] [FML]: Injecting itemstacks
+[18:14:21] [Server thread/INFO] [FML]: Itemstack injection complete
+[18:14:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[18:14:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[18:14:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[18:14:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[18:14:21] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[18:14:21] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:14:21] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[18:14:21] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:14:21] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:14:22] [Server thread/INFO] [Chisel]: Loading recipes...
+[18:14:22] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[18:14:22] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[18:14:22] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[18:14:22] [Server thread/INFO] [Chisel]: 72 Feature's recipes loaded.
+[18:14:22] [Server thread/INFO] [FML]: Applying holder lookups
+[18:14:22] [Server thread/INFO] [FML]: Holder lookups applied
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmoven`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfridge`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfreezer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbedsidecabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmailbox`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcomputer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmprinter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmstereo`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmpresent`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbin`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwallcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbath`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmshowerhead`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmplate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcouch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtoaster`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmchoppingboard`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmblender`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmicrowave`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwashingmachine`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdishwasher`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinetkitchen`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcup`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcookiejar`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtree`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmirror`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmgrill`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmeski`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdoormat`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcrate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmlightswitch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmceilingfan`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdeskcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmodernslidingdoor`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdigitalclock`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtv`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounterdrawer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ruby`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `amethyst`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cobalt`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `copper`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `sapphire`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `silver`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `topaz`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `turquoise`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `moissanite`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `steel`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `onyx`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tourmaline`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tin`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tanzanite`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bronze`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `graphene`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `turquartz`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `sterling`, expected `mores`. This could be a intended override, but in most cases indicates a broken mod.
+[18:14:22] [Server thread/INFO] [FML]: Injecting itemstacks
+[18:14:22] [Server thread/INFO] [FML]: Itemstack injection complete
+[18:14:22] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(-4, -8) invalid, -8 smaller than -4
+[18:14:22] [Server thread/INFO] [torchmaster]: Applying mega torch entity block list overrides...
+[18:14:22] [Server thread/INFO] [torchmaster]: Applying dread lamp entity block list overrides...
+[18:14:22] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 15 mods
+[18:14:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[18:14:22] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[18:14:23] [Netty Epoll Server IO #2/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[18:14:23] [Server thread/INFO] [FML]: Applying holder lookups
+[18:14:23] [Server thread/INFO] [FML]: Holder lookups applied
+[18:14:23] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@4b5344a3)
+[18:14:24] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 718 advancements
+[18:14:24] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@4b5344a3)
+[18:14:25] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@4b5344a3)
+[18:14:25] [Server thread/INFO] [FML]: Loading dimension -11325 (world) (net.minecraft.server.dedicated.DedicatedServer@4b5344a3)
+[18:14:25] [Server thread/INFO] [FML]: Loading dimension -9999 (world) (net.minecraft.server.dedicated.DedicatedServer@4b5344a3)
+[18:14:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[18:14:25] [Netty Epoll Server IO #3/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[18:14:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
+[18:14:26] [Netty Epoll Server IO #4/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[18:14:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 40%
+[18:14:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (4.783s)! For help, type "help" or "?"
+[18:14:27] [Server thread/INFO] [FML]: Unloading dimension -1
+[18:14:27] [Server thread/INFO] [FML]: Unloading dimension 1
+[18:14:28] [Server thread/INFO] [FML]: Unloading dimension -11325
+[18:14:52] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[18:14:52] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 18 mods : minecraft@1.12.2,torchmaster@1.8.4.84,dungeonsmod@@VERSION@,FML@8.0.99.99,tombstone@4.7.4,mca@6.1.0,mores@2.0,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,waila@1.8.26,jei@4.16.1.1013,forge@14.23.5.2860,extrautils2@1.0,jeiintegration@1.6.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,travelersbackpack@1.0.35
+[18:14:52] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
+[18:14:53] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:14:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Uzumaki0502[/127.58.111.88:33423] logged in with entity id 297 at (-245.01693965709978, 64.0, -55.66746701744037)
+[18:14:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 joined the game
+[18:15:20] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[18:15:20] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 18 mods : minecraft@1.12.2,torchmaster@1.8.4.84,dungeonsmod@@VERSION@,FML@8.0.99.99,tombstone@4.7.4,mca@6.1.0,mores@2.0,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,waila@1.8.26,jei@4.16.1.1013,forge@14.23.5.2860,extrautils2@1.0,jeiintegration@1.6.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,travelersbackpack@1.0.35
+[18:15:20] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[18:15:22] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:15:22] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: onlygaby[/127.135.234.72:55311] logged in with entity id 675 at (-246.77806027286798, 64.0, -55.16476096319208)
+[18:15:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby joined the game
+[18:17:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 lost connection: Disconnected
+[18:17:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 left the game
+[18:17:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[18:17:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:17:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:17:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:17:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[18:17:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[18:17:54] [Server thread/INFO] [FML]: Unloading dimension 0
+[18:17:54] [Server thread/INFO] [FML]: Unloading dimension -9999
+[18:17:54] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:17:54] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players

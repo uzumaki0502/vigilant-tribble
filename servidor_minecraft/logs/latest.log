@@ -289,3 +289,6 @@
 [21:03:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: onlygaby moved too quickly! -2.486783373815058,2.176759275064242,9.54674062437391
 [21:11:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Creative Mode]
 [21:17:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Survival Mode]
+[21:19:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set the time to 1000]
+[21:25:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Creative Mode]
+[21:27:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Survival Mode]

@@ -337,6 +337,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-23 21:41:04 +0000",
       "chicken": "2025-01-21 21:10:13 +0000",
       "cooked_mutton": "2025-01-22 19:59:51 +0000",
       "cooked_beef": "2025-01-22 19:05:34 +0000",
@@ -840,6 +841,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-21 21:06:28 +0000"
+    },
+    "done": true
+  },
+  "mores:mores/obtain_silver_ore": {
+    "criteria": {
+      "obtain_copper_ore": "2025-01-23 21:59:00 +0000"
     },
     "done": true
   },
@@ -1352,6 +1359,7 @@
       "ice_flats": "2025-01-21 21:44:47 +0000",
       "frozen_river": "2025-01-21 21:38:58 +0000",
       "forest": "2025-01-21 20:58:11 +0000",
+      "birch_forest": "2025-01-23 21:51:47 +0000",
       "deep_ocean": "2025-01-21 22:05:35 +0000",
       "beaches": "2025-01-21 22:03:44 +0000",
       "extreme_hills_with_trees": "2025-01-22 21:21:06 +0000",

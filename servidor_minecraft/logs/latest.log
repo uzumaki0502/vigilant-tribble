@@ -297,3 +297,9 @@
 [21:36:38] [Server thread/INFO] [tombstone]: The last known grave of onlygaby is at location [name:Last Grave, x:-268, y:63, z:-105] in the dimension 0
 [21:36:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby has made the advancement [Your First Grave]
 [21:36:38] [Server thread/INFO] [tombstone]: onlygaby has successfully been saved
+[21:40:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: onlygaby moved too quickly! 0.9650866334950479,-10.155521752943116,-0.006280397991261566
+[21:44:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: onlygaby moved too quickly! -1.8708882451131217,0.20326439933129592,10.00384319962177
+[21:47:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set own game mode to Creative Mode]
+[21:47:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set own game mode to Survival Mode]
+[21:51:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Teleported onlygaby to Uzumaki0502]
+[21:59:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby has made the advancement [Is This Diamond?]

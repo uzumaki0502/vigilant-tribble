@@ -13534,3 +13534,107 @@
 [20:38:09] [Server thread/DEBUG] [FML]: The world 4122df04 (world) may have leaked: seen 175 times.
 
 [20:38:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:38:59] [Server thread/DEBUG] [FML]: The world 4aee1000 (world) may have leaked: seen 180 times.
+
+[20:38:59] [Server thread/DEBUG] [FML]: The world 2d97f305 (world) may have leaked: seen 180 times.
+
+[20:38:59] [Server thread/DEBUG] [FML]: The world 4122df04 (world) may have leaked: seen 180 times.
+
+[20:38:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:39:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:39:49] [Server thread/DEBUG] [FML]: The world 4aee1000 (world) may have leaked: seen 185 times.
+
+[20:39:49] [Server thread/DEBUG] [FML]: The world 2d97f305 (world) may have leaked: seen 185 times.
+
+[20:39:49] [Server thread/DEBUG] [FML]: The world 4122df04 (world) may have leaked: seen 185 times.
+
+[20:40:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:40:39] [Server thread/DEBUG] [FML]: The world 4aee1000 (world) may have leaked: seen 190 times.
+
+[20:40:39] [Server thread/DEBUG] [FML]: The world 2d97f305 (world) may have leaked: seen 190 times.
+
+[20:40:39] [Server thread/DEBUG] [FML]: The world 4122df04 (world) may have leaked: seen 190 times.
+
+[20:41:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:41:29] [Server thread/DEBUG] [FML]: The world 4aee1000 (world) may have leaked: seen 195 times.
+
+[20:41:29] [Server thread/DEBUG] [FML]: The world 2d97f305 (world) may have leaked: seen 195 times.
+
+[20:41:29] [Server thread/DEBUG] [FML]: The world 4122df04 (world) may have leaked: seen 195 times.
+
+[20:41:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:42:19] [Server thread/DEBUG] [FML]: The world 4aee1000 (world) may have leaked: seen 200 times.
+
+[20:42:19] [Server thread/DEBUG] [FML]: The world 2d97f305 (world) may have leaked: seen 200 times.
+
+[20:42:19] [Server thread/DEBUG] [FML]: The world 4122df04 (world) may have leaked: seen 200 times.
+
+[20:42:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Spectator Mode]
+[20:42:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:43:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Survival Mode]
+[20:43:09] [Server thread/DEBUG] [FML]: The world 4aee1000 (world) may have leaked: seen 205 times.
+
+[20:43:09] [Server thread/DEBUG] [FML]: The world 2d97f305 (world) may have leaked: seen 205 times.
+
+[20:43:09] [Server thread/DEBUG] [FML]: The world 4122df04 (world) may have leaked: seen 205 times.
+
+[20:43:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:43:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Spectator Mode]
+[20:43:59] [Server thread/DEBUG] [FML]: The world 4aee1000 (world) may have leaked: seen 210 times.
+
+[20:43:59] [Server thread/DEBUG] [FML]: The world 2d97f305 (world) may have leaked: seen 210 times.
+
+[20:43:59] [Server thread/DEBUG] [FML]: The world 4122df04 (world) may have leaked: seen 210 times.
+
+[20:44:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:44:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Uzumaki0502> gamemode spectator
+[20:44:49] [Server thread/DEBUG] [FML]: The world 4aee1000 (world) may have leaked: seen 215 times.
+
+[20:44:49] [Server thread/DEBUG] [FML]: The world 2d97f305 (world) may have leaked: seen 215 times.
+
+[20:44:49] [Server thread/DEBUG] [FML]: The world 4122df04 (world) may have leaked: seen 215 times.
+
+[20:44:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set own game mode to Spectator Mode]
+[20:44:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:45:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Survival Mode]
+[20:45:39] [Server thread/DEBUG] [FML]: The world 4aee1000 (world) may have leaked: seen 220 times.
+
+[20:45:39] [Server thread/DEBUG] [FML]: The world 2d97f305 (world) may have leaked: seen 220 times.
+
+[20:45:39] [Server thread/DEBUG] [FML]: The world 4122df04 (world) may have leaked: seen 220 times.
+
+[20:45:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:45:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Spectator Mode]
+[20:46:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set own game mode to Survival Mode]
+[20:46:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Survival Mode]
+[20:46:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 fell from a high place
+[20:46:18] [Server thread/INFO] [tombstone]: The last known grave of Uzumaki0502 is at location [name:Last Grave, x:-271, y:63, z:-120] in the dimension 0
+[20:46:18] [Server thread/INFO] [tombstone]: Uzumaki0502 has successfully been saved
+[20:46:29] [Server thread/DEBUG] [FML]: The world 4aee1000 (world) may have leaked: seen 225 times.
+
+[20:46:29] [Server thread/DEBUG] [FML]: The world 2d97f305 (world) may have leaked: seen 225 times.
+
+[20:46:29] [Server thread/DEBUG] [FML]: The world 4122df04 (world) may have leaked: seen 225 times.
+
+[20:46:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:47:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:47:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set own game mode to Spectator Mode]
+[20:47:19] [Server thread/DEBUG] [FML]: The world 4aee1000 (world) may have leaked: seen 230 times.
+
+[20:47:19] [Server thread/DEBUG] [FML]: The world 2d97f305 (world) may have leaked: seen 230 times.
+
+[20:47:19] [Server thread/DEBUG] [FML]: The world 4122df04 (world) may have leaked: seen 230 times.
+
+[20:47:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set own game mode to Survival Mode]
+[20:47:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:48:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Spectator Mode]
+[20:48:09] [Server thread/DEBUG] [FML]: The world 4aee1000 (world) may have leaked: seen 235 times.
+
+[20:48:09] [Server thread/DEBUG] [FML]: The world 2d97f305 (world) may have leaked: seen 235 times.
+
+[20:48:09] [Server thread/DEBUG] [FML]: The world 4122df04 (world) may have leaked: seen 235 times.
+
+[20:48:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set own game mode to Spectator Mode]
+[20:48:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:48:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 lost connection: Timed out
+[20:48:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 left the game

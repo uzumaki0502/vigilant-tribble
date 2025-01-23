@@ -247,3 +247,21 @@
 [20:32:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Spectator Mode]
 [20:32:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Spectator Mode]
 [20:33:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Survival Mode]
+[20:42:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Spectator Mode]
+[20:43:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Survival Mode]
+[20:43:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Spectator Mode]
+[20:44:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Uzumaki0502> gamemode spectator
+[20:44:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set own game mode to Spectator Mode]
+[20:45:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Survival Mode]
+[20:45:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Spectator Mode]
+[20:46:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set own game mode to Survival Mode]
+[20:46:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Survival Mode]
+[20:46:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 fell from a high place
+[20:46:18] [Server thread/INFO] [tombstone]: The last known grave of Uzumaki0502 is at location [name:Last Grave, x:-271, y:63, z:-120] in the dimension 0
+[20:46:18] [Server thread/INFO] [tombstone]: Uzumaki0502 has successfully been saved
+[20:47:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set own game mode to Spectator Mode]
+[20:47:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set own game mode to Survival Mode]
+[20:48:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Spectator Mode]
+[20:48:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set own game mode to Spectator Mode]
+[20:48:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 lost connection: Timed out
+[20:48:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 left the game

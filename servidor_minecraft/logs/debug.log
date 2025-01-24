@@ -13528,3 +13528,77 @@
 
 [19:00:08] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 240 times.
 
+[19:00:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:00:58] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 245 times.
+
+[19:00:58] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 245 times.
+
+[19:01:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:01:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: onlygaby moved wrongly!
+[19:01:48] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 250 times.
+
+[19:01:48] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 250 times.
+
+[19:02:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:02:38] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 255 times.
+
+[19:02:38] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 255 times.
+
+[19:02:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:03:28] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 260 times.
+
+[19:03:28] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 260 times.
+
+[19:03:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:04:18] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 265 times.
+
+[19:04:18] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 265 times.
+
+[19:04:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:05:08] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 270 times.
+
+[19:05:08] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 270 times.
+
+[19:05:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:05:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Spectator Mode]
+[19:05:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:05:58] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 275 times.
+
+[19:05:58] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 275 times.
+
+[19:06:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Survival Mode]
+[19:06:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 fell from a high place
+[19:06:02] [Server thread/INFO] [tombstone]: The last known grave of Uzumaki0502 is at location [name:Last Grave, x:-263, y:63, z:-110] in the dimension 0
+[19:06:02] [Server thread/INFO] [tombstone]: Uzumaki0502 has successfully been saved
+[19:06:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Spectator Mode]
+[19:06:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Survival Mode]
+[19:06:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:06:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Spectator Mode]
+[19:06:48] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 280 times.
+
+[19:06:48] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 280 times.
+
+[19:07:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 lost connection: Timed out
+[19:07:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 left the game
+[19:07:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:07:38] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 285 times.
+
+[19:07:38] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 285 times.
+
+[19:08:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:08:28] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 290 times.
+
+[19:08:28] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 290 times.
+
+[19:08:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:09:18] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 295 times.
+
+[19:09:18] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 295 times.
+
+[19:09:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: onlygaby lost connection: Disconnected
+[19:09:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby left the game
+[19:09:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:10:08] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 300 times.
+
+[19:10:08] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 300 times.
+

@@ -280,3 +280,19 @@
 [19:12:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 joined the game
 [19:13:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Survival Mode]
 [19:19:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Creative Mode]
+[19:20:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Survival Mode]
+[19:24:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: onlygaby lost connection: Disconnected
+[19:24:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby left the game
+[19:25:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 lost connection: Disconnected
+[19:25:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 left the game
+[19:26:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[19:26:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[19:26:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[19:26:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[19:26:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[19:26:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[19:26:10] [Server thread/INFO] [FML]: Unloading dimension 0
+[19:26:10] [Server thread/INFO] [FML]: Unloading dimension -9999
+[19:26:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[19:26:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[19:26:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

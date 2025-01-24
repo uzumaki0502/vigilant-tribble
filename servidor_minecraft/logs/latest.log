@@ -240,3 +240,15 @@
 [16:04:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 joined the game
 [16:21:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: onlygaby moved too quickly! -5.088925312581296,-1.130906499714527,-8.6587212917062
 [16:22:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: onlygaby moved too quickly! 2.3920798739899283,0.25799910351528155,-9.868202199180388
+[16:35:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set the time to 1000]
+[16:35:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved wrongly!
+[16:36:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Teleported Uzumaki0502 to onlygaby]
+[16:36:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Spectator Mode]
+[16:37:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: onlygaby lost connection: Disconnected
+[16:37:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby left the game
+[16:39:39] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[16:39:39] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,torchmaster@1.8.4.84,dungeonsmod@@VERSION@,FML@8.0.99.99,tombstone@4.7.4,baubles@1.5.2,mca@6.1.0,mores@2.0,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,waila@1.8.26,jei@4.16.1.1013,falling_tree@2.4.0,forge@14.23.5.2860,extrautils2@1.0,jeiintegration@1.6.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35
+[16:39:39] [Netty Epoll Server IO #4/INFO] [journeymap]: CLIENT
+[16:39:41] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:39:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: onlygaby[/127.135.234.72:44597] logged in with entity id 46346 at (-85.35355475540437, 63.0, -337.59889997795386)
+[16:39:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby joined the game

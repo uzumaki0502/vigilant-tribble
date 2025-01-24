@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-01-24 16:32:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-01-21 21:05:27 +0000"
@@ -1459,6 +1465,12 @@
   "mores:mores/smelt_more": {
     "criteria": {
       "smelt_tin_ore": "2025-01-21 21:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-01-24 16:33:37 +0000"
     },
     "done": true
   },

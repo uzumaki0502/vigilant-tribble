@@ -13602,3 +13602,109 @@
 
 [19:10:08] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 300 times.
 
+[19:10:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:10:54] [Server thread/TRACE] [FML]: Handshake channel activating
+[19:10:54] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[19:10:54] [Server thread/DEBUG] [FML]:   Next: HELLO
+[19:10:54] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[19:10:54] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[19:10:54] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:21 mods->FMLHandshakeServerState$2:HELLO
+[19:10:54] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,torchmaster@1.8.4.84,dungeonsmod@@VERSION@,FML@8.0.99.99,tombstone@4.7.4,baubles@1.5.2,mca@6.1.0,mores@2.0,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,waila@1.8.26,jei@4.16.1.1013,falling_tree@2.4.0,forge@14.23.5.2860,extrautils2@1.0,jeiintegration@1.6.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35
+[19:10:54] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[19:10:54] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[19:10:55] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[19:10:55] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[19:10:56] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[19:10:56] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[19:10:56] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[19:10:56] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:10:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: onlygaby[/127.135.234.72:42287] logged in with entity id 73168 at (-279.27771260371475, 63.0, -119.18638474519132)
+[19:10:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby joined the game
+[19:10:57] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[19:10:58] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 305 times.
+
+[19:10:58] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 305 times.
+
+[19:10:59] [Netty Epoll Server IO #3/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt
+[19:10:59] [Netty Epoll Server IO #3/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[19:10:59] [Netty Epoll Server IO #3/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[19:11:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:11:48] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 310 times.
+
+[19:11:48] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 310 times.
+
+[19:11:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:12:38] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 315 times.
+
+[19:12:38] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 315 times.
+
+[19:12:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:12:48] [Server thread/TRACE] [FML]: Handshake channel activating
+[19:12:48] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[19:12:48] [Server thread/DEBUG] [FML]:   Next: HELLO
+[19:12:48] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[19:12:48] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[19:12:48] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $ModList:21 mods->FMLHandshakeServerState$2:HELLO
+[19:12:48] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,torchmaster@1.8.4.84,dungeonsmod@@VERSION@,FML@8.0.99.99,tombstone@4.7.4,baubles@1.5.2,mca@6.1.0,mores@2.0,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,waila@1.8.26,jei@4.16.1.1013,falling_tree@2.4.0,forge@14.23.5.2860,extrautils2@1.0,jeiintegration@1.6.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35
+[19:12:48] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
+[19:12:48] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: WAITINGCACK
+[19:12:48] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[19:12:48] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: COMPLETE
+[19:12:49] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[19:12:49] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: DONE
+[19:12:49] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[19:12:49] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:12:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Uzumaki0502[/127.58.111.88:45459] logged in with entity id 74423 at (-291.8140439415837, 129.6165021345019, -87.95747540787436)
+[19:12:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 joined the game
+[19:12:49] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[19:12:51] [Netty Epoll Server IO #6/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt
+[19:12:51] [Netty Epoll Server IO #6/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[19:12:51] [Netty Epoll Server IO #6/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[19:13:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:13:28] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 320 times.
+
+[19:13:28] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 320 times.
+
+[19:13:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Survival Mode]
+[19:14:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:14:18] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 325 times.
+
+[19:14:18] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 325 times.
+
+[19:14:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:15:08] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 330 times.
+
+[19:15:08] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 330 times.
+
+[19:15:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:15:58] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 335 times.
+
+[19:15:58] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 335 times.
+
+[19:16:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:16:48] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 340 times.
+
+[19:16:48] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 340 times.
+
+[19:17:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:17:38] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 345 times.
+
+[19:17:38] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 345 times.
+
+[19:17:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:18:28] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 350 times.
+
+[19:18:28] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 350 times.
+
+[19:18:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:19:18] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 355 times.
+
+[19:19:18] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 355 times.
+
+[19:19:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:19:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Creative Mode]
+[19:20:08] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 360 times.
+
+[19:20:08] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 360 times.
+
+[19:20:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

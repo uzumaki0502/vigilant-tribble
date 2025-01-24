@@ -14060,3 +14060,195 @@
 [17:39:49] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 600 times.
 
 [17:40:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:40:39] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 605 times.
+
+[17:40:39] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 605 times.
+
+[17:41:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:41:29] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 610 times.
+
+[17:41:29] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 610 times.
+
+[17:41:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:42:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <onlygaby> +++++PPPP
+[17:42:19] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 615 times.
+
+[17:42:19] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 615 times.
+
+[17:42:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:42:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: onlygaby lost connection: Disconnected
+[17:42:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby left the game
+[17:43:09] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 620 times.
+
+[17:43:09] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 620 times.
+
+[17:43:09] [Server thread/TRACE] [FML]: Handshake channel activating
+[17:43:09] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[17:43:09] [Server thread/DEBUG] [FML]:   Next: HELLO
+[17:43:10] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[17:43:10] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[17:43:10] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $ModList:21 mods->FMLHandshakeServerState$2:HELLO
+[17:43:10] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,torchmaster@1.8.4.84,dungeonsmod@@VERSION@,FML@8.0.99.99,tombstone@4.7.4,baubles@1.5.2,mca@6.1.0,mores@2.0,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,waila@1.8.26,jei@4.16.1.1013,falling_tree@2.4.0,forge@14.23.5.2860,extrautils2@1.0,jeiintegration@1.6.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35
+[17:43:10] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
+[17:43:10] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: WAITINGCACK
+[17:43:10] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[17:43:10] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: COMPLETE
+[17:43:11] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[17:43:11] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: DONE
+[17:43:11] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[17:43:11] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:43:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: onlygaby[/127.135.234.72:58013] logged in with entity id 121167 at (-272.87246979251586, 69.0, -106.22671191662221)
+[17:43:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby joined the game
+[17:43:12] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[17:43:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:43:59] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 625 times.
+
+[17:43:59] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 625 times.
+
+[17:44:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:44:49] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 630 times.
+
+[17:44:49] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 630 times.
+
+[17:44:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:45:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:45:39] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 635 times.
+
+[17:45:39] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 635 times.
+
+[17:46:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:46:29] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 640 times.
+
+[17:46:29] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 640 times.
+
+[17:47:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:47:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 lost connection: Disconnected
+[17:47:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 left the game
+[17:47:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: onlygaby lost connection: Disconnected
+[17:47:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby left the game
+[17:47:19] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 645 times.
+
+[17:47:19] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 645 times.
+
+[17:47:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod minecraft
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod minecraft
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod mcp
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod mcp
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod FML
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod FML
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Forge Mod Loader took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod forge
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod forge
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft Forge took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod baubles
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod baubles
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Baubles took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod artifacts
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod artifacts
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Artifacts took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod jei
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod jei
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Just Enough Items took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod chisel
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod chisel
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Chisel took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod dungeonsmod
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod dungeonsmod
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Dungeons Mod took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod extrautils2
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod extrautils2
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Extra Utilities 2 took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod falling_tree
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod falling_tree
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Falling Tree took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod cfm
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod cfm
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - MrCrayfish's Furniture Mod took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod journeymap
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod journeymap
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - JourneyMap took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod mca
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod mca
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft Comes Alive took 0.001s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod mores
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod mores
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - mOres took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod tombstone
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod tombstone
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Corail Tombstone took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod torchmaster
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod torchmaster
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - TorchMaster took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod travelersbackpack
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod travelersbackpack
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Traveler's Backpack took 0.000s
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopping took 0.004s
+[17:47:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[17:47:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[17:47:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[17:47:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[17:47:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:47:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[17:47:26] [Server thread/INFO] [FML]: Unloading dimension 0
+[17:47:26] [Server thread/INFO] [FML]: Unloading dimension -9999
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod minecraft
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod minecraft
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mcp
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mcp
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod FML
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod FML
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod forge
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod forge
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod baubles
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod baubles
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Baubles took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod artifacts
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod artifacts
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Artifacts took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod jei
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod jei
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Just Enough Items took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod chisel
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod chisel
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Chisel took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod dungeonsmod
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod dungeonsmod
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Dungeons Mod took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod extrautils2
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod extrautils2
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Extra Utilities 2 took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod falling_tree
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod falling_tree
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Falling Tree took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod cfm
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod cfm
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - MrCrayfish's Furniture Mod took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod journeymap
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod journeymap
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - JourneyMap took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mca
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mca
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Comes Alive took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mores
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mores
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - mOres took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod tombstone
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod tombstone
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Corail Tombstone took 0.001s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod torchmaster
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod torchmaster
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - TorchMaster took 0.000s
+[17:47:26] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod travelersbackpack
+[17:47:26] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod travelersbackpack
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Traveler's Backpack took 0.000s
+[17:47:26] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopped took 0.003s
+[17:47:26] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[17:47:26] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[17:47:26] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

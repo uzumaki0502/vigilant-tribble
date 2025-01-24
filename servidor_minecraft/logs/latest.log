@@ -318,3 +318,27 @@
 [17:27:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [17:27:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Uzumaki0502[/127.58.111.88:48597] logged in with entity id 102393 at (-247.05772358061364, 64.0, -55.16181443378833)
 [17:27:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 joined the game
+[17:42:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <onlygaby> +++++PPPP
+[17:42:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: onlygaby lost connection: Disconnected
+[17:42:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby left the game
+[17:43:10] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[17:43:10] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,torchmaster@1.8.4.84,dungeonsmod@@VERSION@,FML@8.0.99.99,tombstone@4.7.4,baubles@1.5.2,mca@6.1.0,mores@2.0,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,waila@1.8.26,jei@4.16.1.1013,falling_tree@2.4.0,forge@14.23.5.2860,extrautils2@1.0,jeiintegration@1.6.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35
+[17:43:10] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
+[17:43:11] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:43:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: onlygaby[/127.135.234.72:58013] logged in with entity id 121167 at (-272.87246979251586, 69.0, -106.22671191662221)
+[17:43:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby joined the game
+[17:47:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 lost connection: Disconnected
+[17:47:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 left the game
+[17:47:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: onlygaby lost connection: Disconnected
+[17:47:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby left the game
+[17:47:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[17:47:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[17:47:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[17:47:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[17:47:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[17:47:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[17:47:26] [Server thread/INFO] [FML]: Unloading dimension 0
+[17:47:26] [Server thread/INFO] [FML]: Unloading dimension -9999
+[17:47:26] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[17:47:26] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[17:47:26] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

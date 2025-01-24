@@ -13334,3 +13334,67 @@
 
 [18:29:18] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 55 times.
 
+[18:29:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:30:08] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 60 times.
+
+[18:30:08] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 60 times.
+
+[18:30:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:30:58] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 65 times.
+
+[18:30:58] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 65 times.
+
+[18:31:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:31:48] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 70 times.
+
+[18:31:48] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 70 times.
+
+[18:32:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:32:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Creative Mode]
+[18:32:38] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 75 times.
+
+[18:32:38] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 75 times.
+
+[18:32:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:33:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Survival Mode]
+[18:33:28] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 80 times.
+
+[18:33:28] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 80 times.
+
+[18:33:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:34:18] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 85 times.
+
+[18:34:18] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 85 times.
+
+[18:34:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:35:08] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 90 times.
+
+[18:35:08] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 90 times.
+
+[18:35:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:35:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:35:58] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 95 times.
+
+[18:35:58] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 95 times.
+
+[18:36:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:36:48] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 100 times.
+
+[18:36:48] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 100 times.
+
+[18:37:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:37:38] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 105 times.
+
+[18:37:38] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 105 times.
+
+[18:38:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:38:28] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 110 times.
+
+[18:38:28] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 110 times.
+
+[18:38:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:39:18] [Server thread/DEBUG] [FML]: The world 27a599d6 (world) may have leaked: seen 115 times.
+
+[18:39:18] [Server thread/DEBUG] [FML]: The world 2b259b1a (world) may have leaked: seen 115 times.
+
+[18:39:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

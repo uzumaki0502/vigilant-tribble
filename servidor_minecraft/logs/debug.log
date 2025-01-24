@@ -13702,3 +13702,86 @@
 [16:59:49] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 360 times.
 
 [16:59:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:00:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:00:39] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 365 times.
+
+[17:00:39] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 365 times.
+
+[17:01:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:01:29] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 370 times.
+
+[17:01:29] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 370 times.
+
+[17:02:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:02:19] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 375 times.
+
+[17:02:19] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 375 times.
+
+[17:02:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:03:09] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 380 times.
+
+[17:03:09] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 380 times.
+
+[17:03:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:03:59] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 385 times.
+
+[17:03:59] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 385 times.
+
+[17:04:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:04:49] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 390 times.
+
+[17:04:49] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 390 times.
+
+[17:05:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:05:39] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 395 times.
+
+[17:05:39] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 395 times.
+
+[17:05:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:06:29] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 400 times.
+
+[17:06:29] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 400 times.
+
+[17:06:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:07:19] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 405 times.
+
+[17:07:19] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 405 times.
+
+[17:07:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:07:46] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: Disconnecting com.mojang.authlib.GameProfile@b361c72[id=4f2b9086-e2c9-3282-b71b-70cc5b03addc,name=Uzumaki0502,properties={},legacy=false] (/127.58.111.88:46923): The server is full!
+[17:07:46] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@b361c72[id=4f2b9086-e2c9-3282-b71b-70cc5b03addc,name=Uzumaki0502,properties={},legacy=false] (/127.58.111.88:46923) lost connection: The server is full!
+[17:08:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:08:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 lost connection: Timed out
+[17:08:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 left the game
+[17:08:09] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 410 times.
+
+[17:08:09] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 410 times.
+
+[17:08:21] [Server thread/TRACE] [FML]: Handshake channel activating
+[17:08:21] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[17:08:21] [Server thread/DEBUG] [FML]:   Next: HELLO
+[17:08:21] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[17:08:21] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[17:08:21] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $ModList:21 mods->FMLHandshakeServerState$2:HELLO
+[17:08:21] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,torchmaster@1.8.4.84,dungeonsmod@@VERSION@,FML@8.0.99.99,tombstone@4.7.4,baubles@1.5.2,mca@6.1.0,mores@2.0,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,waila@1.8.26,jei@4.16.1.1013,falling_tree@2.4.0,forge@14.23.5.2860,extrautils2@1.0,jeiintegration@1.6.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35
+[17:08:21] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
+[17:08:21] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: WAITINGCACK
+[17:08:21] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[17:08:21] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: COMPLETE
+[17:08:22] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[17:08:22] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: DONE
+[17:08:22] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[17:08:22] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:08:22] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Uzumaki0502[/127.58.111.88:39369] logged in with entity id 80294 at (-248.13940044047268, 64.0, -54.66191117605721)
+[17:08:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 joined the game
+[17:08:22] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[17:08:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:08:59] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 415 times.
+
+[17:08:59] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 415 times.
+
+[17:09:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:09:49] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 420 times.
+
+[17:09:49] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 420 times.
+

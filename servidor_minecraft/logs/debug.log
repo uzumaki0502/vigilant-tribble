@@ -13525,3 +13525,95 @@
 [16:39:43] [Netty Epoll Server IO #4/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt
 [16:39:43] [Netty Epoll Server IO #4/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
 [16:39:43] [Netty Epoll Server IO #4/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[16:39:49] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 240 times.
+
+[16:39:49] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 240 times.
+
+[16:40:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:40:39] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 245 times.
+
+[16:40:39] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 245 times.
+
+[16:41:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:41:29] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 250 times.
+
+[16:41:29] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 250 times.
+
+[16:41:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Survival Mode]
+[16:41:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:42:19] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 255 times.
+
+[16:42:19] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 255 times.
+
+[16:42:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:43:09] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 260 times.
+
+[16:43:09] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 260 times.
+
+[16:43:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:43:59] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 265 times.
+
+[16:43:59] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 265 times.
+
+[16:44:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:44:49] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 270 times.
+
+[16:44:49] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 270 times.
+
+[16:44:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:45:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:45:39] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 275 times.
+
+[16:45:39] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 275 times.
+
+[16:46:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:46:29] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 280 times.
+
+[16:46:29] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 280 times.
+
+[16:46:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Creative Mode]
+[16:46:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Spectator Mode]
+[16:47:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Survival Mode]
+[16:47:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:47:19] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 285 times.
+
+[16:47:19] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 285 times.
+
+[16:47:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:48:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 lost connection: Disconnected
+[16:48:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 left the game
+[16:48:09] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 290 times.
+
+[16:48:09] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 290 times.
+
+[16:48:13] [Server thread/TRACE] [FML]: Handshake channel activating
+[16:48:13] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[16:48:13] [Server thread/DEBUG] [FML]:   Next: HELLO
+[16:48:14] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[16:48:14] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[16:48:14] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $ModList:21 mods->FMLHandshakeServerState$2:HELLO
+[16:48:14] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,torchmaster@1.8.4.84,dungeonsmod@@VERSION@,FML@8.0.99.99,tombstone@4.7.4,baubles@1.5.2,mca@6.1.0,mores@2.0,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,waila@1.8.26,jei@4.16.1.1013,falling_tree@2.4.0,forge@14.23.5.2860,extrautils2@1.0,jeiintegration@1.6.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35
+[16:48:14] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
+[16:48:14] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: WAITINGCACK
+[16:48:14] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[16:48:14] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: COMPLETE
+[16:48:15] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[16:48:15] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: DONE
+[16:48:15] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[16:48:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:48:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Uzumaki0502[/127.58.111.88:39173] logged in with entity id 59250 at (-249.75931322813022, 64.0, -56.39917263085151)
+[16:48:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 joined the game
+[16:48:15] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[16:48:16] [Netty Epoll Server IO #6/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt
+[16:48:16] [Netty Epoll Server IO #6/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[16:48:16] [Netty Epoll Server IO #6/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[16:48:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:48:59] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 295 times.
+
+[16:48:59] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 295 times.
+
+[16:49:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:49:49] [Server thread/DEBUG] [FML]: The world 25a6ac38 (world) may have leaked: seen 300 times.
+
+[16:49:49] [Server thread/DEBUG] [FML]: The world 5a67c8e1 (world) may have leaked: seen 300 times.
+

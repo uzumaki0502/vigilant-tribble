@@ -242,3 +242,13 @@
 [20:28:59] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [20:28:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: onlygaby[/127.46.170.216:57957] logged in with entity id 8297 at (-261.07663472589434, 63.0, -112.22042288452094)
 [20:28:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby joined the game
+[20:39:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 lost connection: Disconnected
+[20:39:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 left the game
+[20:40:25] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[20:40:25] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,torchmaster@1.8.4.84,dungeonsmod@@VERSION@,FML@8.0.99.99,tombstone@4.7.4,baubles@1.5.2,mca@6.1.0,mores@2.0,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,waila@1.8.26,jei@4.16.1.1013,falling_tree@2.4.0,forge@14.23.5.2860,extrautils2@1.0,jeiintegration@1.6.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35
+[20:40:25] [Netty Epoll Server IO #5/INFO] [journeymap]: CLIENT
+[20:40:26] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:40:26] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Uzumaki0502[/127.58.111.88:55933] logged in with entity id 20595 at (-273.4219133946518, 63.0, -113.69999998807907)
+[20:40:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 joined the game
+[20:40:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set the time to 1000]
+[20:40:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: onlygaby moved wrongly!

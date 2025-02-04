@@ -282,3 +282,30 @@
 [21:22:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 lost connection: Disconnected
 [21:22:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 left the game
 [21:22:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[21:23:08] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[21:23:08] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,torchmaster@1.8.4.84,dungeonsmod@@VERSION@,FML@8.0.99.99,tombstone@4.7.4,baubles@1.5.2,mca@6.1.0,mores@2.0,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,waila@1.8.26,jei@4.16.1.1013,falling_tree@2.4.0,forge@14.23.5.2860,extrautils2@1.0,jeiintegration@1.6.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35
+[21:23:08] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
+[21:23:10] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:23:10] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Uzumaki0502[/127.58.111.88:39169] logged in with entity id 62977 at (-259.57227849426147, 80.0, -111.38065824461742)
+[21:23:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 joined the game
+[21:24:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set own game mode to Creative Mode]
+[21:24:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: onlygaby moved too quickly! 7.244914869261038,3.3899498140737023,-6.346112725238399
+[21:24:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set own game mode to Survival Mode]
+[21:25:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby fell out of the world
+[21:25:00] [Server thread/INFO] [tombstone]: The last known grave of onlygaby is at location [name:Last Grave, x:-251, y:76, z:-109] in the dimension 0
+[21:25:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Killed onlygaby]
+[21:25:00] [Server thread/INFO] [tombstone]: onlygaby has successfully been saved
+[21:25:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Creative Mode]
+[21:25:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set own game mode to Creative Mode]
+[21:25:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set own game mode to Survival Mode]
+[21:25:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Survival Mode]
+[21:26:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set own game mode to Creative Mode]
+[21:26:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set own game mode to Survival Mode]
+[21:28:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Teleported Uzumaki0502 to onlygaby]
+[21:29:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set own game mode to Creative Mode]
+[21:29:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set own game mode to Survival Mode]
+[21:30:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set own game mode to Creative Mode]
+[21:30:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Teleported Uzumaki0502 to onlygaby]
+[21:30:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set own game mode to Creative Mode]
+[21:30:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set own game mode to Survival Mode]
+[21:31:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: onlygaby moved too quickly! 2.680378059251211,-9.511361445793497,-3.513288968183744

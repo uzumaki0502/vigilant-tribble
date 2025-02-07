@@ -392,6 +392,7 @@
       "cooked_cod": "2025-01-24 17:14:55 +0000",
       "bread": "2025-02-07 00:37:41 +0000",
       "raw_cod": "2025-01-21 21:06:44 +0000",
+      "golden_carrot": "2025-02-07 20:57:11 +0000",
       "cooked_chicken": "2025-01-21 21:18:58 +0000",
       "enchanted_golden_apple": "2025-02-07 20:20:39 +0000",
       "carrot": "2025-01-21 21:39:42 +0000"
@@ -641,6 +642,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-01-22 19:24:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-07 20:56:32 +0000"
     },
     "done": true
   },

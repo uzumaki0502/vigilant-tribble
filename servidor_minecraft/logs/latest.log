@@ -804,3 +804,15 @@
 [20:43:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Teleported Uzumaki0502 to onlygaby]
 [20:47:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby has made the advancement [A Seedy Place]
 [20:47:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby has made the advancement [Into Fire]
+[20:53:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 was kicked for floating too long!
+[20:53:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 lost connection: Flying is not enabled on this server
+[20:53:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 left the game
+[20:54:01] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[20:54:01] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 30 mods : minecraft@1.12.2,torchmaster@1.8.4.84,umm3185118519@release 1.5 - MC 1.12.2,baubles@1.5.2,mca@6.1.0,msmlegacy@@VERSION@,jei@4.16.1.1013,falling_tree@2.4.0,bauble_wings@1.0.0,extrautils2@1.0,jeiintegration@1.6.0,roguelike@1.8.0,spartanshields@1.5.5,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35,FML@8.0.99.99,tombstone@4.7.4,bookshelf@2.3.590,llibrary@1.7.20,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,waila@1.8.26,aether_legacy@1.5.3.2,thedragonlib@1.12.2-5.3.0,forge@14.23.5.2860,wings@1.1.6,armorplus@1.12.2-11.28.0.69
+[20:54:01] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
+[20:54:02] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:54:02] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Uzumaki0502[/127.58.111.88:36029] logged in with entity id 311325 at (-243.5, 64.0999984741211, -57.5)
+[20:54:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 joined the game
+[20:54:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: onlygaby moved too quickly! 0.0,-10.145589748006017,0.03740652496146879
+[20:56:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: onlygaby moved too quickly! -3.9690174732041896,0.26959549704297103,9.202160634904146
+[20:58:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 has made the advancement [A Seedy Place]

@@ -805,6 +805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-07 00:15:51 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-02-07 00:19:30 +0000"
@@ -814,12 +820,6 @@
   "minecraft:recipes/building_blocks/red_nether_brick": {
     "criteria": {
       "has_nether_wart": "2025-02-07 00:20:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-07 00:15:51 +0000"
     },
     "done": true
   },
@@ -838,15 +838,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2025-02-06 23:35:10 +0000"
-    },
-    "done": true
-  },
   "aether_legacy:recipes/tools/iron_pendant": {
     "criteria": {
       "has_iron": "2025-02-06 23:18:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-02-06 23:35:10 +0000"
     },
     "done": true
   },
@@ -886,15 +886,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_red_flower": "2025-02-06 23:45:32 +0000"
-    },
-    "done": true
-  },
   "aether_legacy:recipes/combat/diamond_gloves": {
     "criteria": {
       "has_diamond": "2025-02-06 23:35:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2025-02-06 23:45:32 +0000"
     },
     "done": true
   },

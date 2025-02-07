@@ -951,6 +951,7 @@
       "wither_skeleton": "2025-02-07 00:37:15 +0000",
       "zombie_villager": "2025-01-21 21:41:59 +0000",
       "slime": "2025-02-06 23:46:28 +0000",
+      "vindicator": "2025-02-07 21:34:49 +0000",
       "skeleton": "2025-01-21 21:10:40 +0000",
       "husk": "2025-02-07 00:38:00 +0000",
       "blaze": "2025-02-07 20:37:30 +0000",
@@ -1747,6 +1748,7 @@
       "birch_forest_hills": "2025-02-06 23:39:32 +0000",
       "ocean": "2025-01-21 22:04:16 +0000",
       "extreme_hills": "2025-01-21 21:05:15 +0000",
+      "roofed_forest": "2025-02-07 21:39:03 +0000",
       "river": "2025-01-21 21:05:12 +0000",
       "jungle": "2025-01-21 21:48:41 +0000",
       "desert": "2025-02-07 21:28:46 +0000",
@@ -2039,6 +2041,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-01-22 21:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-07 21:35:59 +0000"
     },
     "done": true
   },

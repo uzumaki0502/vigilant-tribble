@@ -1194,3 +1194,16 @@
 [21:29:43] [Server thread/WARN] [net.minecraft.nbt.NBTUtil]: Unable to read property: north with value:  for blockstate: {Properties:{east:0b,color:"red",south:0b,north:0b,west:0b},Name:"minecraft:stained_glass_pane"}
 [21:29:43] [Server thread/WARN] [net.minecraft.nbt.NBTUtil]: Unable to read property: west with value:  for blockstate: {Properties:{east:0b,color:"red",south:0b,north:0b,west:0b},Name:"minecraft:stained_glass_pane"}
 [21:29:43] [Server thread/WARN] [net.minecraft.nbt.NBTUtil]: Unable to read property: open with value:  for blockstate: {Properties:{half:"bottom",facing:"west",open:1b},Name:"minecraft:trapdoor"}
+[21:32:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set own game mode to Survival Mode]
+[21:32:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set the time to 1000]
+[21:34:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 was slain by Treasure Guards Level 5
+[21:34:19] [Server thread/INFO] [tombstone]: The last known grave of Uzumaki0502 is at location [name:Last Grave, x:-1218, y:85, z:-1497] in the dimension 0
+[21:34:19] [Server thread/INFO] [tombstone]: Uzumaki0502 has successfully been saved
+[21:35:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: onlygaby moved too quickly! 4.174340485400592,2.252203340253729,-8.87992806038406
+[21:36:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: onlygaby moved too quickly! 1.081704190449841,0.6338562000508148,10.15832931120562
+[21:38:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: onlygaby moved too quickly! 0.48403770177884553,-2.8953607408821966,9.583679373515551
+[21:39:30] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
+[21:39:30] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
+[21:39:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-78, -128] in dimension 0 (overworld) while populating chunk [-79, -124], causing cascading worldgen lag.
+[21:39:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 has made the advancement [What a Deal!]

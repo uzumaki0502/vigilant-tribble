@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-02-07 19:46:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-22 19:36:12 +0000"
@@ -843,8 +849,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2025-02-07 19:47:42 +0000",
       "skeleton": "2025-01-21 22:01:23 +0000",
+      "husk": "2025-02-07 19:45:40 +0000",
       "zombie": "2025-01-21 21:41:03 +0000",
+      "silverfish": "2025-02-07 19:50:24 +0000",
       "spider": "2025-01-21 21:46:52 +0000",
       "creeper": "2025-01-23 18:43:09 +0000"
     },
@@ -1009,6 +1018,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-22 19:36:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-02-07 19:42:35 +0000"
     },
     "done": true
   },
@@ -1636,6 +1651,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-01-21 21:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-07 19:41:12 +0000"
     },
     "done": true
   },

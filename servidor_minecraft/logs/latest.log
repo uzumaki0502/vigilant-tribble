@@ -763,3 +763,6 @@
 [19:42:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby has made the advancement [Mutual Aid]
 [19:44:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: onlygaby moved too quickly! -2.0112750001355835,0.0,9.818464381970443
 [19:46:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby has made the advancement [Cover Me With Diamonds]
+[19:56:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby tried to swim in lava to escape Silverfish
+[19:56:26] [Server thread/INFO] [tombstone]: The last known grave of onlygaby is at location [name:Last Grave, x:-1630, y:20, z:2697] in the dimension 0
+[19:56:26] [Server thread/INFO] [tombstone]: onlygaby has successfully been saved

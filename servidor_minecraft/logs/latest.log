@@ -766,3 +766,8 @@
 [19:56:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby tried to swim in lava to escape Silverfish
 [19:56:26] [Server thread/INFO] [tombstone]: The last known grave of onlygaby is at location [name:Last Grave, x:-1630, y:20, z:2697] in the dimension 0
 [19:56:26] [Server thread/INFO] [tombstone]: onlygaby has successfully been saved
+[20:02:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 has made the advancement [Cover Me With Diamonds]
+[20:05:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: onlygaby moved too quickly! 1.2760655939343906,0.0,-9.999441259597916
+[20:10:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby was shot by Uzumaki0502 using [Yew Longbow]
+[20:10:44] [Server thread/INFO] [tombstone]: The last known grave of onlygaby is at location [name:Last Grave, x:-1601, y:10, z:2663] in the dimension 0
+[20:10:44] [Server thread/INFO] [tombstone]: onlygaby has successfully been saved

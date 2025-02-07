@@ -1047,6 +1047,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-02-07 19:38:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-22 20:25:18 +0000"

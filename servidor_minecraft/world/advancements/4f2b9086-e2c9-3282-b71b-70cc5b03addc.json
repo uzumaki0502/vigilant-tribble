@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-07 20:38:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-01-21 21:00:43 +0000"
@@ -92,6 +98,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-01-21 21:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-02-07 20:36:01 +0000"
     },
     "done": true
   },
@@ -335,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-07 20:38:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-01-24 16:32:33 +0000"
@@ -391,6 +409,7 @@
       "apple": "2025-01-21 21:03:04 +0000",
       "cooked_cod": "2025-01-21 21:41:09 +0000",
       "bread": "2025-02-07 00:31:06 +0000",
+      "golden_apple": "2025-02-07 20:34:39 +0000",
       "rotten_flesh": "2025-02-07 20:14:32 +0000",
       "raw_cod": "2025-01-21 21:06:11 +0000",
       "cooked_chicken": "2025-01-21 21:17:59 +0000",
@@ -408,6 +427,12 @@
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2025-01-22 22:56:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-02-07 20:39:59 +0000"
     },
     "done": true
   },
@@ -543,6 +568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-07 20:38:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-22 20:25:18 +0000"
@@ -603,6 +634,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-01-22 21:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-07 20:38:00 +0000"
     },
     "done": true
   },
@@ -870,6 +907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2025-02-07 20:39:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-01-23 21:09:21 +0000"
@@ -878,12 +921,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2025-02-07 20:40:24 +0000",
       "stray": "2025-01-21 21:48:10 +0000",
       "wither_skeleton": "2025-02-07 00:37:15 +0000",
       "zombie_villager": "2025-01-21 21:41:59 +0000",
       "slime": "2025-02-06 23:46:28 +0000",
       "skeleton": "2025-01-21 21:10:40 +0000",
       "husk": "2025-02-07 00:38:00 +0000",
+      "blaze": "2025-02-07 20:37:30 +0000",
       "zombie": "2025-01-21 21:41:02 +0000",
       "cave_spider": "2025-02-07 00:48:22 +0000",
       "silverfish": "2025-02-07 19:47:46 +0000",
@@ -1125,6 +1170,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2025-01-22 19:18:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-07 20:37:20 +0000"
     },
     "done": true
   },
@@ -1530,6 +1581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-07 20:37:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2025-01-22 22:25:13 +0000"
@@ -1602,6 +1659,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-07 20:37:20 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-01-22 22:56:19 +0000"
@@ -1611,6 +1674,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2025-01-22 19:10:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-07 20:38:00 +0000"
     },
     "done": true
   },
@@ -1691,6 +1760,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-01-21 21:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2025-02-07 20:35:59 +0000"
     },
     "done": true
   },
@@ -1805,6 +1880,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-01-21 21:39:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-07 20:38:00 +0000"
     },
     "done": true
   },
@@ -1949,6 +2030,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 21:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2025-02-07 20:36:01 +0000"
     },
     "done": true
   },

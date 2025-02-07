@@ -740,6 +740,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-07 20:40:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2025-01-21 22:00:02 +0000"
@@ -868,11 +874,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "stray": "2025-02-07 20:39:30 +0000",
       "wither_skeleton": "2025-02-07 20:11:01 +0000",
       "zombie_villager": "2025-02-07 19:47:42 +0000",
       "skeleton": "2025-01-21 22:01:23 +0000",
       "husk": "2025-02-07 19:45:40 +0000",
+      "blaze": "2025-02-07 20:37:20 +0000",
       "zombie": "2025-01-21 21:41:03 +0000",
+      "cave_spider": "2025-02-07 20:31:11 +0000",
       "silverfish": "2025-02-07 19:50:24 +0000",
       "spider": "2025-01-21 21:46:52 +0000",
       "creeper": "2025-01-23 18:43:09 +0000"
@@ -1470,6 +1479,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2025-01-21 21:14:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-07 20:40:26 +0000"
     },
     "done": true
   },

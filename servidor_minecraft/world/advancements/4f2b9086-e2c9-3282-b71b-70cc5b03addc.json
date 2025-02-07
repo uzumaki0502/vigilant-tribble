@@ -385,8 +385,10 @@
       "apple": "2025-01-21 21:03:04 +0000",
       "cooked_cod": "2025-01-21 21:41:09 +0000",
       "bread": "2025-02-07 00:31:06 +0000",
+      "rotten_flesh": "2025-02-07 20:14:32 +0000",
       "raw_cod": "2025-01-21 21:06:11 +0000",
       "cooked_chicken": "2025-01-21 21:17:59 +0000",
+      "enchanted_golden_apple": "2025-02-07 20:20:45 +0000",
       "carrot": "2025-01-21 21:41:06 +0000"
     },
     "done": false
@@ -1267,6 +1269,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-23 21:09:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-02-07 20:19:26 +0000"
     },
     "done": true
   },

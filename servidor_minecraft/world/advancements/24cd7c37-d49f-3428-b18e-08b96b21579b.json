@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/misc/saddle": {
+    "criteria": {
+      "has_leather": "2025-02-07 20:50:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-01-22 19:42:22 +0000"
@@ -356,6 +362,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-01-23 18:47:00 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-02-07 20:50:33 +0000"
     },
     "done": true
   },
@@ -1104,6 +1116,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-07 20:47:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-01-21 21:11:54 +0000"
@@ -1488,6 +1506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-07 20:47:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-21 22:00:31 +0000"
@@ -1539,6 +1563,12 @@
   "aether_legacy:recipes/tools/gold_ring": {
     "criteria": {
       "has_gold": "2025-02-06 23:58:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-07 20:47:54 +0000"
     },
     "done": true
   },
@@ -1668,6 +1698,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-01-22 22:56:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-02-07 20:47:17 +0000"
     },
     "done": true
   },

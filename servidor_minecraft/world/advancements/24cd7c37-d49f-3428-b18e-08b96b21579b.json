@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave_simple": "2025-02-07 21:53:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-01-21 21:35:23 +0000"
@@ -925,6 +931,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2025-02-07 21:53:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-01-21 21:35:23 +0000"
@@ -1120,6 +1132,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 21:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2025-02-07 22:01:04 +0000"
     },
     "done": true
   },
@@ -1462,6 +1480,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-01-22 19:09:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_white_marble": {
+    "criteria": {
+      "has_ingredient": "2025-02-07 21:53:43 +0000"
     },
     "done": true
   },

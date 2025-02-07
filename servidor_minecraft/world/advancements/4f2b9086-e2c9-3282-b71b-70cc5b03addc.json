@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave_simple": "2025-02-07 21:54:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-01-21 21:35:38 +0000"
@@ -521,9 +527,21 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_dark_marble": {
+    "criteria": {
+      "has_ingredient": "2025-02-07 21:51:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-07 19:54:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2025-02-07 21:52:20 +0000"
     },
     "done": true
   },
@@ -1001,6 +1019,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2025-02-07 21:54:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-01-21 21:35:38 +0000"
@@ -1292,6 +1316,12 @@
   "tombstone:tutorial/find_grave_dust": {
     "criteria": {
       "has_grave_dust": "2025-01-21 21:10:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2025-02-07 21:52:20 +0000"
     },
     "done": true
   },
@@ -2149,6 +2179,12 @@
   "minecraft:recipes/decorations/slime": {
     "criteria": {
       "has_at_least_9_slime_ball": "2025-02-06 23:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2025-02-07 21:52:20 +0000"
     },
     "done": true
   }

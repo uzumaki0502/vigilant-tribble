@@ -1207,3 +1207,15 @@
 [21:39:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-78, -128] in dimension 0 (overworld) while populating chunk [-79, -124], causing cascading worldgen lag.
 [21:39:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [21:42:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 has made the advancement [What a Deal!]
+[21:53:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: onlygaby has reached the goal [A Small Cemetery]
+[21:54:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 has reached the goal [A Small Cemetery]
+[21:55:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: onlygaby moved too quickly! -2.1660335030630904,8.639278706643267,-6.299943692322927
+[21:55:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Spectator Mode]
+[21:56:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Survival Mode]
+[21:57:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Teleported Uzumaki0502 to onlygaby]
+[21:59:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Creative Mode]
+[22:00:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [onlygaby: Set the time to 1000]
+[22:00:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Survival Mode]
+[22:01:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Creative Mode]
+[22:02:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Uzumaki0502: Set own game mode to Survival Mode]
+[22:02:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! -7.274583360084023,-2.2311127516870357,6.617497456471696

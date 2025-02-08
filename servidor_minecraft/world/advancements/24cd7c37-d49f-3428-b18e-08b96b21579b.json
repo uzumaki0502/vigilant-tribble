@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/first_pray": {
+    "criteria": {
+      "coded_trigger": "2025-02-08 18:18:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 21:35:23 +0000"
@@ -699,6 +705,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-02-08 18:30:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 21:35:23 +0000"
@@ -720,6 +732,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-01-22 19:24:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-08 18:15:08 +0000"
     },
     "done": true
   },
@@ -914,6 +932,7 @@
       "zombie": "2025-01-21 21:41:03 +0000",
       "cave_spider": "2025-02-07 20:31:11 +0000",
       "silverfish": "2025-02-07 19:50:24 +0000",
+      "witch": "2025-02-08 18:08:21 +0000",
       "spider": "2025-01-21 21:46:52 +0000",
       "creeper": "2025-01-23 18:43:09 +0000"
     },
@@ -1084,6 +1103,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-22 19:42:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_block": {
+    "criteria": {
+      "has_brick": "2025-02-08 17:50:44 +0000"
     },
     "done": true
   },
@@ -1840,6 +1865,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-02-08 17:50:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2025-02-07 22:04:01 +0000"
@@ -1855,6 +1886,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-21 22:00:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-02-08 18:30:20 +0000"
     },
     "done": true
   },

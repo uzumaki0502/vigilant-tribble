@@ -1,19 +1,559 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1739035388426 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1739035515698 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1739035392165 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1739035519077 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1739035395332 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1739035522292 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1739035398481 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1739035525445 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035528622 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035531765 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035534831 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035537924 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035541182 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035544442 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035548619 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035551760 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035555130 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035558279 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035561394 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035564464 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035567612 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035570735 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035574012 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035577212 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035580340 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035583531 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035586654 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035589768 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035592891 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035596079 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035599207 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035602320 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035605456 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035608546 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035611640 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035614823 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035617989 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035621117 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035624366 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035627867 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035631065 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035635238 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035638470 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035641656 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035645572 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035648644 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035651731 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035654943 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035658158 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035661284 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035664409 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035667556 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035670699 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035673825 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035676940 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035680063 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035683768 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035686876 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035689997 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035693360 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035696484 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035700687 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035703840 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035706958 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035710072 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035713191 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035716325 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035719408 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035722586 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035725876 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035729196 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035732272 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035735336 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035738454 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035741529 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035744617 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035747716 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035750890 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035753995 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035757171 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035760424 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035763531 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035766673 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035770430 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035773497 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035776591 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035779719 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035782911 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035786015 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035789242 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035792369 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035795511 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035798616 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035801755 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035804863 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035808035 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035811173 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035814317 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035817524 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035820637 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035823897 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035827020 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035830101 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035833166 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035836289 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035839427 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035842653 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035845945 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035849059 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035852313 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035855569 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035858690 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035861820 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035864937 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035868106 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pa-wallet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739035871268 tunnel running, 1 tunnels registered
 
 
 TUNNELS

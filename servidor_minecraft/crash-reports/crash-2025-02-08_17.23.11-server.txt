@@ -1,0 +1,87 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  llibrary (llibrary-core-1.0.11-1.12.2.jar)
+  wings (wings-1.1.6-1.12.2.jar)
+  CTMCorePlugin (CTM-MC1.12.2-1.0.2.31.jar)
+Contact their authors BEFORE contacting forge
+
+// But it works on my machine.
+
+Time: 2/8/25 5:23 PM
+Description: Exception in server tick loop
+
+Missing Mods:
+	unknown : need any: have missing
+
+net.minecraftforge.fml.common.MissingModsException: Mod playerrevive (Player Revive) requires [creativecore]
+	at net.minecraftforge.fml.common.Loader.sortModList(Loader.java:266)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:572)
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Thread.java:750)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 6.5.0-1025-azure
+	Java Version: 1.8.0_432, Private Build
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Private Build
+	Memory: 2089060496 bytes (1992 MB) / 2561671168 bytes (2443 MB) up to 9544663040 bytes (9102 MB)
+	JVM Flags: 2 total; -Xms2G -Xmx10G
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2860 31 mods loaded, 29 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State | ID                   | Version                 | Source                                        | Signature                                |
+	|:----- |:-------------------- |:----------------------- |:--------------------------------------------- |:---------------------------------------- |
+	| L     | minecraft            | 1.12.2                  | minecraft.jar                                 | None                                     |
+	| L     | mcp                  | 9.42                    | minecraft.jar                                 | None                                     |
+	| L     | FML                  | 8.0.99.99               | forge-1.12.2-14.23.5.2860.jar                 | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| L     | forge                | 14.23.5.2860            | forge-1.12.2-14.23.5.2860.jar                 | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| L     | aether_legacy        | 1.5.3.2                 | aether-1.12.2-v1.5.4.0.jar                    | None                                     |
+	| L     | armorplus            | 1.12.2-11.28.0.69       | armorplus-1.12.2-11.28.0.69.jar               | None                                     |
+	| L     | artifacts            | 1.12.2-1.2.4            | artifacts-1.12.2-1.2.4.jar                    | None                                     |
+	| L     | baubles              | 1.5.2                   | Baubles-1.12-1.5.2.jar                        | None                                     |
+	| L     | bookshelf            | 2.3.590                 | Bookshelf-1.12.2-2.3.590.jar                  | None                                     |
+	| L     | chisel               | MC1.12.2-1.0.2.45       | Chisel-MC1.12.2-1.0.2.45.jar                  | None                                     |
+	| L     | cookingforblockheads | 6.5.0                   | CookingForBlockheads_1.12.2-6.5.0.jar         | None                                     |
+	| L     | umm3185118519        | release 1.5 - MC 1.12.2 | Extended ItemsOres [1.12.2] (release 1.5).jar | None                                     |
+	| L     | extrautils2          | 1.0                     | extrautils2-1.12-1.9.9.jar                    | None                                     |
+	| L     | falling_tree         | 2.4.0                   | FallingTree-1.12.2-2.4.0.jar                  | None                                     |
+	| L     | cfm                  | 6.3.0                   | furniture-6.3.2-1.12.2.jar                    | None                                     |
+	| L     | jei                  | 4.16.1.1013             | jei_1.12.2-4.16.1.1013.jar                    | None                                     |
+	| L     | journeymap           | 1.12.2-5.7.1p3          | journeymap-1.12.2-5.7.1p3.jar                 | None                                     |
+	| L     | mca                  | 6.1.0                   | MCA-Español-1.12.2.jar                        | None                                     |
+	| L     | msmlegacy            | @VERSION@               | MoreSwordsLegacy-1.12.2-1.0.7.jar             | None                                     |
+	| L     | playerrevive         | 1.0                     | PlayerRevive_v1.2.40_mc1.12.2.jar             | None                                     |
+	| L     | roguelike            | 1.8.0                   | RoguelikeDungeons-1.12.2-1.8.0.jar            | None                                     |
+	| L     | spartanshields       | 1.5.5                   | SpartanShields-1.12.2-1.5.5.jar               | None                                     |
+	| L     | thedragonlib         | 1.12.2-5.3.0            | thedragonlib-1.12.2-5.3.0.jar                 | None                                     |
+	| L     | tombstone            | 4.7.4                   | tombstone-1.12.2-4.7.4.jar                    | None                                     |
+	| L     | torchmaster          | 1.8.4.84                | torchmaster_1.12.2-1.8.4.84.jar               | None                                     |
+	| L     | travelersbackpack    | 1.0.35                  | TravelersBackpack-1.12.2-1.0.35.jar           | None                                     |
+	| UD    | mowzies_wings        | 1.0.0                   | wings-1.1.6-1.12.2.jar                        | None                                     |
+	| L     | bauble_wings         | 1.0.0                   | wings-1.1.6-1.12.2.jar                        | None                                     |
+	| UD    | mobends_wings        | 1.0.0                   | wings-1.1.6-1.12.2.jar                        | None                                     |
+	| L     | wings                | 1.1.6                   | wings-1.1.6-1.12.2.jar                        | None                                     |
+	| L     | llibrary             | 1.7.20                  | llibrary-1.7.20-1.12.2.jar                    | None                                     |
+
+	Loaded coremods (and transformers): 
+llibrary (llibrary-core-1.0.11-1.12.2.jar)
+  net.ilexiconn.llibrary.server.core.plugin.LLibraryTransformer
+  net.ilexiconn.llibrary.server.core.patcher.LLibraryRuntimePatcher
+wings (wings-1.1.6-1.12.2.jar)
+  me.paulf.wings.server.asm.WingsRuntimePatcher
+  me.paulf.wings.server.asm.mobends.WingsMoBendsRuntimePatcher
+CTMCorePlugin (CTM-MC1.12.2-1.0.2.31.jar)
+  team.chisel.ctm.client.asm.CTMTransformer
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)

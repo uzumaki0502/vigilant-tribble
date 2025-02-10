@@ -493,3 +493,19 @@
 [22:00:53] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [22:00:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Uzumaki0502[/127.58.111.88:46149] logged in with entity id 105515 at (-277.9226296712913, 63.0, -108.45704604765649)
 [22:00:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 joined the game
+[22:08:16] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@3ce5ba0c)
+[22:08:17] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:10:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Uzumaki0502> https://i.imgur.com/ua9eyDl.gif
+[22:11:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 lost connection: Disconnected
+[22:11:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 left the game
+[22:11:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[22:11:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:11:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[22:11:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[22:11:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[22:11:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[22:11:59] [Server thread/INFO] [FML]: Unloading dimension 0
+[22:11:59] [Server thread/INFO] [FML]: Unloading dimension -9999
+[22:11:59] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:11:59] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[22:11:59] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

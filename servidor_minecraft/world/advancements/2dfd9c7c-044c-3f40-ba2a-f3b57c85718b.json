@@ -355,6 +355,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-02-10 20:25:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-02-08 22:00:46 +0000"
@@ -1407,6 +1413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 20:32:07 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/building_blocks/skyroot_planks": {
     "criteria": {
       "has_log": "2025-02-08 22:00:05 +0000"
@@ -1452,6 +1464,12 @@
   "aether_legacy:recipes/decorations/incubator": {
     "criteria": {
       "has_stone": "2025-02-08 21:57:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2025-02-10 20:32:07 +0000"
     },
     "done": true
   }

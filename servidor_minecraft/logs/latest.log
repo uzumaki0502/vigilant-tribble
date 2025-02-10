@@ -477,3 +477,5 @@
 [21:31:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: im_gabys has made the advancement [First Prayer]
 [21:31:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 has reached the goal [New Path]
 [21:31:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 has made the advancement [Let The Magic Happen]
+[21:41:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: im_gabys moved too quickly! -5.466486673989493,3.422233122054493,-8.094682597043544
+[21:44:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [im_gabys: Set the time to 1000]

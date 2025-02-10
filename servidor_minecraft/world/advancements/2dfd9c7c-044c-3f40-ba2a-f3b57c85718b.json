@@ -682,7 +682,9 @@
       "magma_cube": "2025-02-08 21:36:41 +0000",
       "skeleton": "2025-02-08 21:35:31 +0000",
       "blaze": "2025-02-08 21:37:56 +0000",
-      "ghast": "2025-02-08 21:39:12 +0000"
+      "zombie": "2025-02-10 20:23:59 +0000",
+      "ghast": "2025-02-08 21:39:12 +0000",
+      "spider": "2025-02-10 20:09:31 +0000"
     },
     "done": false
   },
@@ -749,6 +751,12 @@
   "aether_legacy:recipes/misc/cold_parachute": {
     "criteria": {
       "has_cloud": "2025-02-08 21:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 20:12:44 +0000"
     },
     "done": true
   },
@@ -950,6 +958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2025-02-10 20:15:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-02-10 20:01:22 +0000"
@@ -1124,6 +1138,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 20:15:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-02-08 21:24:52 +0000"
@@ -1261,6 +1281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-10 20:09:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "nether_wart": "2025-02-08 21:14:02 +0000"
@@ -1336,6 +1362,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-02-08 21:20:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2025-02-10 20:12:44 +0000"
     },
     "done": true
   },

@@ -413,3 +413,7 @@
 [19:58:32] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [19:58:32] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: im_gabys[/127.150.144.239:51255] logged in with entity id 497 at (-269.10915591705714, 63.0, -113.83344432331735)
 [19:58:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: im_gabys joined the game
+[20:15:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: im_gabys moved too quickly! 7.829933521787666,0.0,6.618273304372451
+[20:19:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [im_gabys: Set own game mode to Creative Mode]
+[20:19:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [im_gabys: Set own game mode to Survival Mode]
+[20:23:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: im_gabys moved too quickly! -5.1233539378748105,-2.34877975710738,-8.642802749688428

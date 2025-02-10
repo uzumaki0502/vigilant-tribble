@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-02-10 21:31:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-01-21 21:03:11 +0000"
@@ -1341,6 +1347,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 21:35:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/new_path": {
+    "criteria": {
+      "coded_trigger": "2025-02-10 21:31:52 +0000"
     },
     "done": true
   },

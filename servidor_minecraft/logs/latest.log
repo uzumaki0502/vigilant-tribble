@@ -428,3 +428,52 @@
 [21:09:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 joined the game
 [21:21:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: im_gabys lost connection: Disconnected
 [21:21:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: im_gabys left the game
+[21:26:32] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@3ce5ba0c)
+[21:27:01] [Server thread/INFO] [FML]: Unloading dimension -1
+[21:27:15] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@3ce5ba0c)
+[21:27:15] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.gildedgames.the_aether.entities.util.EntityMountable from class com.gildedgames.the_aether.entities.util.EntitySaddleMount
+[21:27:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 moved too quickly! -0.7297126469808859,26.0,34.21379264234639
+[21:27:34] [Server thread/INFO] [FML]: Unloading dimension 4
+[21:28:04] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:anthermite
+[21:28:04] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:anthermite
+[21:28:04] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:anthermite
+[21:28:04] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:anthermite
+[21:28:04] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:anthermite
+[21:28:04] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:anthermite
+[21:28:04] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:anthermite
+[21:28:04] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:anthermite
+[21:28:04] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:rogue
+[21:28:36] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[21:28:36] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,torchmaster@1.8.4.84,ptrmodellib@1.0.5,umm3185118519@release 1.5 - MC 1.12.2,baubles@1.5.2,mca@6.1.0,creativecoredummy@1.0.0,creativecore@1.10.0,msmlegacy@@VERSION@,jei@4.16.1.1013,falling_tree@2.4.0,bauble_wings@1.0.0,extrautils2@1.0,jeiintegration@1.6.0,roguelike@1.8.0,spartanshields@1.5.5,mcp@9.42,ctm@MC1.12.2-1.0.2.31,cookingforblockheads@6.5.0,journeymap@1.12.2-5.7.1p3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35,FML@8.0.99.99,tombstone@4.7.4,bookshelf@2.3.590,harvestcraft@1.12.2zb,llibrary@1.7.20,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,waila@1.8.26,props@2.6.3.7,aether_legacy@1.5.3.2,thedragonlib@1.12.2-5.3.0,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,wings@1.1.6,armorplus@1.12.2-11.28.0.69,playerrevive@1.0
+[21:28:36] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
+[21:28:38] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:rogue
+[21:28:38] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:rogue
+[21:28:42] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:28:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: im_gabys[/127.150.144.239:45355] logged in with entity id 76255 at (-245.5, 69.0, -109.5)
+[21:28:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: im_gabys joined the game
+[21:28:43] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:anthermite
+[21:28:43] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:anthermite
+[21:28:43] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:anthermite
+[21:28:43] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:anthermite
+[21:28:47] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:anthermite
+[21:28:47] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:anthermite
+[21:28:48] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:anthermite
+[21:28:48] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:anthermite
+[21:28:48] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:anthermite
+[21:28:48] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:anthermite
+[21:28:50] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:anthermite
+[21:28:50] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:anthermite
+[21:28:50] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:anthermite
+[21:28:50] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:anthermite
+[21:28:50] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id dungeonsmod:anthermite
+[21:28:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: im_gabys lost connection: Timed out
+[21:28:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: im_gabys left the game
+[21:29:34] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[21:29:34] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,torchmaster@1.8.4.84,ptrmodellib@1.0.5,umm3185118519@release 1.5 - MC 1.12.2,baubles@1.5.2,mca@6.1.0,creativecoredummy@1.0.0,creativecore@1.10.0,msmlegacy@@VERSION@,jei@4.16.1.1013,falling_tree@2.4.0,bauble_wings@1.0.0,extrautils2@1.0,jeiintegration@1.6.0,roguelike@1.8.0,spartanshields@1.5.5,mcp@9.42,ctm@MC1.12.2-1.0.2.31,cookingforblockheads@6.5.0,journeymap@1.12.2-5.7.1p3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35,FML@8.0.99.99,tombstone@4.7.4,bookshelf@2.3.590,harvestcraft@1.12.2zb,llibrary@1.7.20,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,waila@1.8.26,props@2.6.3.7,aether_legacy@1.5.3.2,thedragonlib@1.12.2-5.3.0,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,wings@1.1.6,armorplus@1.12.2-11.28.0.69,playerrevive@1.0
+[21:29:34] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[21:29:39] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:29:39] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: im_gabys[/127.150.144.239:48227] logged in with entity id 80432 at (-245.5, 69.0, -109.5)
+[21:29:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: im_gabys joined the game
+[21:31:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: im_gabys has made the advancement [First Prayer]
+[21:31:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 has reached the goal [New Path]
+[21:31:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 has made the advancement [Let The Magic Happen]

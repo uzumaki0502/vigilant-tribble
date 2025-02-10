@@ -836,6 +836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2025-02-10 20:02:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-02-08 21:38:05 +0000"
@@ -884,6 +890,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-02-10 20:02:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-02-08 22:00:46 +0000"
@@ -920,6 +932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-02-10 20:02:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-08 20:12:34 +0000"
@@ -929,6 +947,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-02-08 21:20:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-02-10 20:01:22 +0000"
     },
     "done": true
   },
@@ -1070,6 +1094,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-10 20:03:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_the_recipe": "2025-02-08 21:00:29 +0000"
@@ -1200,6 +1230,7 @@
     "criteria": {
       "forest": "2025-02-08 20:11:22 +0000",
       "deep_ocean": "2025-02-08 22:02:17 +0000",
+      "beaches": "2025-02-10 20:03:55 +0000",
       "plains": "2025-02-08 20:12:08 +0000",
       "taiga": "2025-02-08 21:03:37 +0000",
       "river": "2025-02-08 20:22:22 +0000"
@@ -1245,6 +1276,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-02-08 21:20:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-02-10 20:02:33 +0000"
     },
     "done": true
   },
@@ -1359,6 +1396,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-02-08 22:00:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-02-10 20:02:33 +0000"
     },
     "done": true
   },

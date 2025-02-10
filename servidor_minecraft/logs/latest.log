@@ -483,3 +483,13 @@
 [21:49:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: im_gabys has made the advancement [Ashes 'n Bones]
 [21:50:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: im_gabys has made the advancement [Stone Age]
 [21:53:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [im_gabys: Set the time to 1000]
+[22:00:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: im_gabys lost connection: Disconnected
+[22:00:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: im_gabys left the game
+[22:00:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Uzumaki0502 lost connection: Disconnected
+[22:00:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 left the game
+[22:00:51] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[22:00:51] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,torchmaster@1.8.4.84,ptrmodellib@1.0.5,umm3185118519@release 1.5 - MC 1.12.2,baubles@1.5.2,mca@6.1.0,creativecoredummy@1.0.0,creativecore@1.10.0,msmlegacy@@VERSION@,jei@4.16.1.1013,falling_tree@2.4.0,bauble_wings@1.0.0,extrautils2@1.0,jeiintegration@1.6.0,roguelike@1.8.0,spartanshields@1.5.5,mcp@9.42,ctm@MC1.12.2-1.0.2.31,cookingforblockheads@6.5.0,journeymap@1.12.2-5.7.1p3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35,FML@8.0.99.99,tombstone@4.7.4,bookshelf@2.3.590,harvestcraft@1.12.2zb,llibrary@1.7.20,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,waila@1.8.26,props@2.6.3.7,aether_legacy@1.5.3.2,thedragonlib@1.12.2-5.3.0,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,wings@1.1.6,armorplus@1.12.2-11.28.0.69,playerrevive@1.0
+[22:00:51] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[22:00:53] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:00:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Uzumaki0502[/127.58.111.88:46149] logged in with entity id 105515 at (-277.9226296712913, 63.0, -108.45704604765649)
+[22:00:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 joined the game

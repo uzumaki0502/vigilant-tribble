@@ -26926,3 +26926,37 @@ java.net.UnknownHostException: cdn.tdt.pw
 [21:03:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:04:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:05:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:06:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:06:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:07:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:08:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:09:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:09:43] [Server thread/TRACE] [FML]: Handshake channel activating
+[21:09:43] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[21:09:43] [Server thread/DEBUG] [FML]:   Next: HELLO
+[21:09:43] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[21:09:43] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[21:09:43] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:38 mods->FMLHandshakeServerState$2:HELLO
+[21:09:43] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,torchmaster@1.8.4.84,ptrmodellib@1.0.5,umm3185118519@release 1.5 - MC 1.12.2,baubles@1.5.2,mca@6.1.0,creativecoredummy@1.0.0,creativecore@1.10.0,msmlegacy@@VERSION@,jei@4.16.1.1013,falling_tree@2.4.0,bauble_wings@1.0.0,extrautils2@1.0,jeiintegration@1.6.0,roguelike@1.8.0,spartanshields@1.5.5,mcp@9.42,ctm@MC1.12.2-1.0.2.31,cookingforblockheads@6.5.0,journeymap@1.12.2-5.7.1p3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35,FML@8.0.99.99,tombstone@4.7.4,bookshelf@2.3.590,harvestcraft@1.12.2zb,llibrary@1.7.20,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,waila@1.8.26,props@2.6.3.7,aether_legacy@1.5.3.2,thedragonlib@1.12.2-5.3.0,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,wings@1.1.6,armorplus@1.12.2-11.28.0.69,playerrevive@1.0
+[21:09:43] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[21:09:43] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[21:09:43] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[21:09:43] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[21:09:45] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[21:09:45] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[21:09:45] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[21:09:45] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:09:45] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Uzumaki0502[/127.58.111.88:59293] logged in with entity id 57480 at (-279.27053576429404, 63.0, -92.27857378514241)
+[21:09:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Uzumaki0502 joined the game
+[21:09:45] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[21:09:49] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt
+[21:09:49] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[21:09:49] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[21:09:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:10:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:11:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:12:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:12:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:13:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:14:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:15:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
